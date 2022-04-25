@@ -75,13 +75,11 @@ We are an open-source software dynasty -- we provide various cool packages, appl
   </tr>
     </table>
       </br>
-  </br>
-    </br>
   <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/olive/default.png" href = "https://github.com/ChifiSource/image_dump/blob/main/olive/default.png" >
   <h3 href = "https://github.com/orgs/ChifiSource/teams/olive"> olive </h3>
   <table>
   <tr>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/olive/default.png" ></th>
+    <th><img width = 90 src="https://github.com/ChifiSource/image_dump/blob/main/olive/logo_t.png" ></th>
   </tr>
   <tr>
     <td>
