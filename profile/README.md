@@ -1,10 +1,10 @@
 ### welcome to chifi !
 We are an open-source software dynasty -- we provide various cool packages, applications, and studies into the limelight in order to provide a universally better experience when it comes to both creating great software and managing software. Check out the work of any of our teams for more information!
 #### jump to
-- [odd-data]() - Data essentials for Julia.
-- [toolips]() - Full-stack web development for Julia.
-- [olive]() - Julian notebooks.
-- [web]() - Our websites and webapps.
+- [odd-data](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-odd-data-) - Data essentials for Julia.
+- [toolips](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-toolips-) - Full-stack web development for Julia.
+- [olive](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-olive-) - Julian notebooks.
+- [web](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-olive-) - Our websites and webapps.
 
 <div align="center" style = "box-pack: start;">
   </br>
@@ -74,4 +74,22 @@ We are an open-source software dynasty -- we provide various cool packages, appl
  </td>
   </tr>
     </table>
+      </br>
+  </br>
+    </br>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/olive/default.png" href = "https://github.com/ChifiSource/image_dump/blob/main/olive/default.png" >
+  <h3 href = "https://github.com/orgs/ChifiSource/teams/olive"> olive </h3>
+  <table>
+  <tr>
+    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/olive/default.png" ></th>
+  </tr>
+  <tr>
+    <td>
+      
+[![version](https://juliahub.com/docs/Lathe/version.svg)](https://juliahub.com/ui/Packages/Lathe/6rMNJ)
+    </td>
+    
+  </tr>
+    </table>
+    
   </div>
