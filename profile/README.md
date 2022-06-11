@@ -21,7 +21,7 @@ We are an open-source software dynasty -- we provide various cool packages, appl
   </tr>
     </table>
       </br>
-        <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/logo_t.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
+        <img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/logo_t.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
   <h3 href = "https://github.com/orgs/ChifiSource/teams/odd-data"> odd data </h3>
   <table>
   <tr>
