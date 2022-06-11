@@ -8,22 +8,16 @@ We are an open-source software dynasty -- we provide various cool packages, appl
 <div align="center" style = "box-pack: start;">
   </br>
   <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg" href = "https://github.com/orgs/ChifiSource/teams/toolips" >
-  <h3 href = "https://github.com/orgs/ChifiSource/teams/odd-data"> toolips </h3>
+  <h3 href = "https://github.com/orgs/ChifiSource/teams/toolips"> toolips </h3>
   <table>
   <tr>
     <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg" ></th>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/Curated/logo.png" ></th>
   </tr>
   <tr>
     <td>
       
 [![version](https://juliahub.com/docs/Lathe/version.svg)](https://juliahub.com/ui/Packages/Lathe/6rMNJ)
     </td>
-        <td>
-      
-[![version](https://juliahub.com/docs/Lathe/version.svg)](https://juliahub.com/ui/Packages/Lathe/6rMNJ)
-      
- </td>
   </tr>
     </table>
       </br>
