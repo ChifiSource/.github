@@ -15,6 +15,24 @@ We are an open-source software dynasty -- we provide various cool packages, appl
   </tr>
   <tr>
     <td>
+
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
+    </td>
+  </tr>
+        <tr>
+    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></th>
+  </tr>
+  <tr>
+    <td>
+      
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
+    </td>
+  </tr>
+        <tr>
+    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png"></th>
+  </tr>
+  <tr>
+    <td>
       
 [![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
     </td>
