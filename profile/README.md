@@ -11,12 +11,12 @@ We are an open-source software dynasty -- we provide various cool packages, appl
   <h3 href = "https://github.com/orgs/ChifiSource/teams/toolips"> toolips </h3>
   <table>
   <tr>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg" ></th>
+    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg" href="https://github.com/ChifiSource/Toolips.jl></th>
   </tr>
   <tr>
     <td>
       
-[![version](https://juliahub.com/docs/Lathe/version.svg)](https://juliahub.com/ui/Packages/Lathe/6rMNJ)
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
     </td>
   </tr>
     </table>
