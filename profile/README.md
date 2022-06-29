@@ -2,8 +2,7 @@
 We are an open-source software dynasty -- we provide various cool packages, applications, and studies into the limelight in order to provide a universally better experience when it comes to both creating great software and managing software. Check out the work of any of our teams for more information!
 #### jump to
 - [toolips](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-toolips-) - Full-stack web development for Julia.
-- [odd-data](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-odd-data-) - Data essentials for Julia.
-- [web](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-olive-) - Our websites and webapps.
+- [odd-data](https://github.com/ChifiSource/.github/blob/main/profile/README.md#odd-data-) - Data essentials for Julia.
 
 <div align="center" style = "box-pack: start;">
   </br>
@@ -16,8 +15,11 @@ We are an open-source software dynasty -- we provide various cool packages, appl
   <tr>
     <td>
       
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
-    </td>
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)   [link](https://github.com/ChifiSource/Toolips.jl)
+
+
+
+</td>
   </tr>
         <tr>
     <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></th>
@@ -25,7 +27,7 @@ We are an open-source software dynasty -- we provide various cool packages, appl
   <tr>
     <td>
       
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)   [link](https://github.com/ChifiSource/ToolipsSession.jl)
     </td>
   </tr>
         <tr>
@@ -34,7 +36,7 @@ We are an open-source software dynasty -- we provide various cool packages, appl
   <tr>
     <td>
       
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsApp.jl)
     </td>
   </tr>
               <tr>
@@ -43,7 +45,25 @@ We are an open-source software dynasty -- we provide various cool packages, appl
   <tr>
     <td>
       
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsRemote.jl)
+    </td>
+  </tr>
+                <tr>
+    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></th>
+  </tr>
+  <tr>
+    <td>
+      
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsUploader.jl)
+    </td>
+  </tr>
+                <tr>
+    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsbase64.png"></th>
+  </tr>
+  <tr>
+    <td>
+      
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsBase64.jl)
     </td>
   </tr>
     </table>
