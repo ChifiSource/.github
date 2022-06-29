@@ -10,7 +10,7 @@ We are an open-source software dynasty -- we provide various cool packages, appl
   <h3 href = "https://github.com/orgs/ChifiSource/teams/toolips"> toolips </h3>
   <table>
         <tr>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg"></th>
+    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg"></br><a> toolips is an extension-based web-development framework for Julia.</a></th>
   </tr>
   <tr>
     <td>
