@@ -31,27 +31,27 @@ We are an open-source software dynasty -- we provide various cool packages, appl
     </td>
     <td>
       
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsApp.jl)
+**unreleased**    [link](https://github.com/ChifiSource/ToolipsApp.jl)
     </td>
     <td>
       
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsRemote.jl)
+**unreleased**    [link](https://github.com/ChifiSource/ToolipsRemote.jl)
     </td>
     <td>
       
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsUploader.jl)
+**unreleased**    [link](https://github.com/ChifiSource/ToolipsUploader.jl)
     </td>
     <td>
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsBase64.jl)
+**unreleased**    [link](https://github.com/ChifiSource/ToolipsBase64.jl)
     </td>
     <td>
       
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsDefaults.jl)
+**unreleased**    [link](https://github.com/ChifiSource/ToolipsDefaults.jl)
     </td>
   </tr>
     </table>
       </br>
-        <img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/logo_t.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
+        <img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/odddata_portable.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
   <h3 href = "https://github.com/orgs/ChifiSource/teams/odd-data"> odd data </h3>
   <table>
   <tr>
