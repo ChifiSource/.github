@@ -66,6 +66,15 @@ We are an open-source software dynasty -- we provide various cool packages, appl
 [![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsBase64.jl)
     </td>
   </tr>
+                  <tr>
+    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsdefaults.png"></th>
+  </tr>
+  <tr>
+    <td>
+      
+[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)    [link](https://github.com/ChifiSource/ToolipsDefaults.jl)
+    </td>
+  </tr>
     </table>
       </br>
         <img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/logo_t.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
