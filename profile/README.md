@@ -1,8 +1,11 @@
-### welcome to chifi !
-We are an open-source software dynasty -- we provide various cool packages, applications, and studies into the limelight in order to provide a universally better experience when it comes to both creating great software and managing software. Check out the work of any of our teams for more information!
+<div align = "center">
+<img src = "https://github.com/ChifiSource/image_dump/blob/main/chicover.png" width = 850>
+</div>
+
 #### jump to
-- [toolips](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-toolips-) - Full-stack web development for Julia.
-- [odd-data](https://github.com/ChifiSource/.github/blob/main/profile/README.md#odd-data-) - Data essentials for Julia.
+- [toolips](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-toolips-) - Extendable web-development for Julia.
+- [toolips projects](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-toolips-projects-) - Toolips-bound projects.
+- [odd-data](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-odd-data-) - Data essentials for Julia.
 
 <div align="center" style = "box-pack: start;">
   </br>
