@@ -14,7 +14,6 @@
         <tr>
     <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg"></th>
     <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></th>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png"></th>
     <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsremote.png"></th>
     <th><img width = 80 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></th>
     <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsbase64.png"></th>
@@ -30,10 +29,6 @@
     <td>
       
 [![version](https://juliahub.com/docs/ToolipsSession/version.svg)](https://juliahub.com/ui/Packages/ToolipsSession/ji8dn)   [link](https://github.com/ChifiSource/ToolipsSession.jl)
-    </td>
-    <td>
-      
-**unreleased**    [link](https://github.com/ChifiSource/ToolipsApp.jl)
     </td>
     <td>
       
@@ -87,10 +82,15 @@
     <h3>toolips projects</h3>
     <table>
     <tr>
+    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png"></th>
     <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/prrty.png"></th>
     <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/olive/default.png"></th>
     </tr>
     <tr>
+        <td>
+      
+**unreleased**    [link](https://github.com/ChifiSource/ToolipsApp.jl)
+    </td>
         <td>
       
 **unreleased**   [link](https://github.com/ChifiSource/Prrty.jl)
