@@ -2,10 +2,9 @@
 <img src = "https://github.com/ChifiSource/image_dump/blob/main/chicover.png" width = 850>
 </div>
 
-#### jump to
-- [toolips](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-toolips-) - Extendable web-development for Julia.
-- [toolips projects](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-toolips-projects-) - Toolips-bound projects.
-- [odd-data](https://github.com/ChifiSource/.github/blob/main/profile/README.md#-odd-data-) - Data essentials for Julia.
+#### teams
+- [toolips](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia.
+- [odd-data](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia.
 
 <div align="center" style = "box-pack: start;">
   </br>
