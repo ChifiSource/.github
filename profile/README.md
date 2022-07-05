@@ -61,7 +61,7 @@
 </td>
     <td>
       
-**unreleased**   [link](https://github.com/ChifiSource/ToolipsMarkdown.jl)
+[![version](https://juliahub.com/docs/ToolipsMarkdown/version.svg)](https://juliahub.com/ui/Packages/ToolipsMarkdown/tOv1W)   [link](https://github.com/ChifiSource/ToolipsMarkdown.jl)
 
 
 </td>
