@@ -55,7 +55,7 @@
     <tr>
     <td>
       
-**unreleased**   [link](https://github.com/ChifiSource/ToolipsMemWrite.jl)
+[![version](https://juliahub.com/docs/ToolipsMemWrite/version.svg)](https://juliahub.com/ui/Packages/ToolipsMemWrite/4C3HO)   [link](https://github.com/ChifiSource/ToolipsMemWrite.jl)
 
 
 </td>
