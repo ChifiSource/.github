@@ -16,7 +16,7 @@
   </br>
    </a>
    
-  ### Standard Library
+  #### Standard Library
   
  
   <table>
@@ -57,7 +57,7 @@
 
   </tr>
     </table>
-    <h3>toolips projects</h3>
+    <h4>toolips projects</h4>
     <table>
     <tr>
     <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png"></th>
@@ -85,26 +85,38 @@
     </table>
 
 
-### toolips curated
+#### toolips curated
 <table>
-<th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsremote.png"></th>
-    <th><img width = 80 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></th>
-        <td>
-      
-**unreleased**
+<tr>
+<th><a href = "https://github.com/ChifiSource/ToolipsMemWrite.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmemwrite.png"></a></th>
 
-    </td>
-        <td>
+<th><a href = "https://github.com/ChifiSource/ToolipsRemote.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsremote.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsUploader.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></a></th>
+    </tr>
+    <tr>
+<td align = "center">
       
 [![version](https://juliahub.com/docs/ToolipsMemWrite/version.svg)](https://juliahub.com/ui/Packages/ToolipsMemWrite/4C3HO)   [link](https://github.com/ChifiSource/ToolipsMemWrite.jl)
 
 
 </td>
+<td align = "center">
+      
+**unreleased**
 
+
+</td>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+</tr>
 </table>
 
 
-### toolips exports
+#### toolips exports
 <div align = "left">
 
 toolips exports is a project currently in **early planning and development...**, soon, you will be able to compile toolips apps into native Android, Windows, and Linux apps. Before this portion of Toolips is worked on, we need:
