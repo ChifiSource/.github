@@ -8,76 +8,54 @@
 
 <div align="center" style = "box-pack: start;">
   </br>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg" href = "https://github.com/orgs/ChifiSource/teams/toolips" >
-  <h3 href = "https://github.com/orgs/ChifiSource/teams/toolips"> toolips </h3>
+  <a href = https://github.com/orgs/ChifiSource/teams/toolips>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg">
+  
+  [![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
+  
+  </br>
+   </a>
+   
+  ### Standard Library
+  
+ 
   <table>
         <tr>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg"></th>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></th>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsremote.png"></th>
-    <th><img width = 80 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></th>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsbase64.png"></th>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsdefaults.png"></th>
+    <th><a href = "https://github.com/ChifiSource/ToolipsSession.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/ToolipsDefaults.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsdefaults.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsMarkdown.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmarkdown.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsBase64.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsbase64.png"></a></th>
   </tr>
   <tr>
-    <td>
+<td align = "center">
       
-[![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)   [link](https://github.com/ChifiSource/Toolips.jl)
+[![version](https://juliahub.com/docs/ToolipsSession/version.svg)](https://juliahub.com/ui/Packages/ToolipsSession/ji8dn)
 
 
 </td>
-    <td>
+    
+<td align = "center">
       
-[![version](https://juliahub.com/docs/ToolipsSession/version.svg)](https://juliahub.com/ui/Packages/ToolipsSession/ji8dn)   [link](https://github.com/ChifiSource/ToolipsSession.jl)
-    </td>
-    <td>
+**unreleased**
+
+
+</td>
+    
+<td align = "center">
       
-**unreleased**    [link](https://github.com/ChifiSource/ToolipsRemote.jl)
-    </td>
-    <td>
+[![version](https://juliahub.com/docs/ToolipsMarkdown/version.svg)](https://juliahub.com/ui/Packages/ToolipsMarkdown/tOv1W)
+
+
+</td>
+
+<td align = "center">
       
-**unreleased**    [link](https://github.com/ChifiSource/ToolipsUploader.jl)
-    </td>
-    <td>
-**unreleased**    [link](https://github.com/ChifiSource/ToolipsBase64.jl)
-    </td>
-    <td>
-      
-**unreleased**    [link](https://github.com/ChifiSource/ToolipsDefaults.jl)
-    </td>
+**unreleased**
+
+
+</td>
+
   </tr>
-          <tr>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmemwrite.png"></th>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmarkdown.png"></th>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipscanvas.png"></th>
-    <th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsauth.png"></th>
-  </tr>
-    <tr>
-    <td>
-      
-[![version](https://juliahub.com/docs/ToolipsMemWrite/version.svg)](https://juliahub.com/ui/Packages/ToolipsMemWrite/4C3HO)   [link](https://github.com/ChifiSource/ToolipsMemWrite.jl)
-
-
-</td>
-    <td>
-      
-[![version](https://juliahub.com/docs/ToolipsMarkdown/version.svg)](https://juliahub.com/ui/Packages/ToolipsMarkdown/tOv1W)   [link](https://github.com/ChifiSource/ToolipsMarkdown.jl)
-
-
-</td>
-    <td>
-      
-**unreleased**   [link](https://github.com/ChifiSource/Toolips.jl)
-
-
-</td>
-    <td>
-      
-**unreleased**   [link](https://github.com/ChifiSource/Toolips.jl)
-
-
-</td>
-</tr>
     </table>
     <h3>toolips projects</h3>
     <table>
@@ -105,7 +83,43 @@
 </td>
 </tr>
     </table>
-      </br>
+
+
+### toolips curated
+<table>
+<th><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsremote.png"></th>
+    <th><img width = 80 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></th>
+        <td>
+      
+**unreleased**
+
+    </td>
+        <td>
+      
+[![version](https://juliahub.com/docs/ToolipsMemWrite/version.svg)](https://juliahub.com/ui/Packages/ToolipsMemWrite/4C3HO)   [link](https://github.com/ChifiSource/ToolipsMemWrite.jl)
+
+
+</td>
+
+</table>
+
+
+### toolips exports
+<div align = "left">
+
+toolips exports is a project currently in **early planning and development...**, soon, you will be able to compile toolips apps into native Android, Windows, and Linux apps. Before this portion of Toolips is worked on, we need:
+- **1.** A release of Toolips.jl 0.1.5
+- **2.** Full dominating releases of every single Standard Library toolips extension.
+- **3.** Some more of the curated extensions' completions, those include:
+- toolips remote
+- toolips ssh
+- toolips ptp
+- toolips auth
+- toolips uploader
+
+
+
+</div></br>
         <img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/odddata_portable.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
   <h3> odd data </h3></a>
   <table>
@@ -119,6 +133,7 @@
   </tr>
   <tr>
     <td>
+    
       
 [![version](https://juliahub.com/docs/ParseNotEval/version.svg)](https://juliahub.com/ui/Packages/ParseNotEval/r4sWd)    [link](https://github.com/ChifiSource/ParseNotEval.jl)
       
