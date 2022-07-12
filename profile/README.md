@@ -50,7 +50,7 @@
 
 <td align = "center">
       
-**unreleased**
+[![version](https://juliahub.com/docs/ToolipsBase64/version.svg)](https://juliahub.com/ui/Packages/ToolipsBase64/fFDlQ)
 
 
 </td>
@@ -96,7 +96,7 @@
     <tr>
 <td align = "center">
       
-[![version](https://juliahub.com/docs/ToolipsMemWrite/version.svg)](https://juliahub.com/ui/Packages/ToolipsMemWrite/4C3HO)   [link](https://github.com/ChifiSource/ToolipsMemWrite.jl)
+[![version](https://juliahub.com/docs/ToolipsMemWrite/version.svg)](https://juliahub.com/ui/Packages/ToolipsMemWrite/4C3HO)
 
 
 </td>
