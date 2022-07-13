@@ -119,17 +119,7 @@
 #### toolips exports
 <div align = "left">
 
-toolips exports is a project currently in **early planning and development...**, soon, you will be able to compile toolips apps into native Android, Windows, and Linux apps. Before this portion of Toolips is worked on, we need:
-- **1.** A release of Toolips.jl 0.1.5
-- **2.** Full dominating releases of every single Standard Library toolips extension.
-- **3.** Some more of the curated extensions' completions, those include:
-- toolips remote
-- toolips ssh
-- toolips ptp
-- toolips auth
-- toolips uploader
-
-
+toolips exports is a project currently in **early planning and development...**, soon, you will be able to compile toolips apps into native Android, Windows, and Linux apps.
 
 </div></br>
         <img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/odddata_portable.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
@@ -182,3 +172,22 @@ toolips exports is a project currently in **early planning and development...**,
     </br>
     
   </div>
+
+
+##### roadmap
+**bold** = complete
+- Toolips 0.2.0
+- TSession 0.2.0
+- TMarkdown 0.1.1
+- TDefaults 0.1.0
+- TMemwrite 0.1.1
+- TUploader 0.1.0
+- TPTP 0.1.0
+- TRemote 0.1.0
+- TDispatch 0.1.0
+- TAuth 0.1.0
+- ToolipsApp 0.1.0
+- IPy 0.1.0
+- ParseNotEval 0.1.1
+- Olive 0.1.0
+- Prrty 0.1.0
