@@ -8,7 +8,7 @@
 
 <div align="center" style = "box-pack: start;">
   </br>
-  <a href = https://github.com/orgs/ChifiSource/teams/toolips>
+  <a href = https://github.com/ChifiSource/Toolips.jl>
   <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg">
   
   [![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
@@ -182,43 +182,31 @@
   <h3> odd data </h3></a>
   <table>
   <tr>
-    <th><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></th>
-    <th><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></th>
-    <th><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/oddframes/logo.png" ></th>
-    <th><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/oddstructures/logo.png" ></th>
-    <th><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/quickreaders/logo.png" ></th>
-    <th><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/documentor/logo.png" ></th>
+    <th><a href = "https://github.com/ChifiSource/ParseNotEval.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></a></th>
+    <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
+    <th><a href = "https://github.com/ChifiSource/OddFrames.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/oddframes/logo.png" ></a></th>
+    <th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
   </tr>
   <tr>
-    <td>
+    <td align = "center">
     
       
-[![version](https://juliahub.com/docs/ParseNotEval/version.svg)](https://juliahub.com/ui/Packages/ParseNotEval/r4sWd)    [link](https://github.com/ChifiSource/ParseNotEval.jl)
+[![version](https://juliahub.com/docs/ParseNotEval/version.svg)](https://juliahub.com/ui/Packages/ParseNotEval/r4sWd)
       
  </td>
-     <td>
+     <td align = "center">
       
-**unreleased**   [link](https://github.com/ChifiSource/IPy.jl)
-      
- </td>
-      <td>
-      
-**unreleased**   [link](https://github.com/ChifiSource/OddFrames.jl)
+**unreleased**
       
  </td>
-      <td>
+      <td align = "center">
       
-**unreleased**   [link](https://github.com/ChifiSource/OddStructures.jl)
-      
- </td>
-      <td>
-      
-**unreleased**   [link](https://github.com/ChifiSource/QuickReaders.jl)
+**unreleased**
       
  </td>
-      <td>
+      <td align = "center">
       
-**unreleased**   [link](https://github.com/ChifiSource/Documator.jl)
+**unreleased**
       
  </td>
   </tr>
