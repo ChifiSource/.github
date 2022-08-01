@@ -102,7 +102,7 @@
 <th><a href = "https://github.com/ChifiSource/ToolipsRemote.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsremote.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsUploader.jl" width = 20><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsManager.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmanager.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsAuth.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsauth.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsInterpolator.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsinterpolator.png"></a></th>
     </tr>
     <tr>
 <td align = "center">
@@ -147,8 +147,15 @@
 <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsMultipleDispatch.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmultipledispatch.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsCanvas.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipscanvas.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsAuth.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsauth.png"></a></th>
 </tr>
 <tr>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
 <td align = "center">
       
 **unreleased**
