@@ -213,7 +213,7 @@
  </td>
       <td align = "center">
       
-**unreleased**
+[![version](https://juliahub.com/docs/CarouselArrays/version.svg)](https://juliahub.com/ui/Packages/CarouselArrays/aznIg)
       
  </td>
   </tr>
