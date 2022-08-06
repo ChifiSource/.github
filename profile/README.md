@@ -137,7 +137,7 @@
 </td>
 <td align = "center">
       
-**unreleased**
+[![version](https://juliahub.com/docs/ToolipsInterpolator/version.svg)](https://juliahub.com/ui/Packages/ToolipsInterpolator/s1Jlr)
 
 
 </td>
