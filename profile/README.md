@@ -113,7 +113,7 @@
 </td>
 <td align = "center">
       
-**unreleased**
+[![version](https://juliahub.com/docs/ToolipsExport/version.svg)](https://juliahub.com/ui/Packages/ToolipsExport/16D5e)
 
 
 </td>
