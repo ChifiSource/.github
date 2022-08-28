@@ -1,10 +1,13 @@
 <div align = "center">
-<img src = "https://github.com/ChifiSource/image_dump/blob/main/chicover.png" width = 850>
+<img src = "https://github.com/ChifiSource/image_dump/blob/main/77068968.png" width = 150>
+<h5>chifi | an open-source software dynasty.</h5>
 </div>
 
 #### teams
 - [toolips](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia.
 - [odd-data](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia.
+# toolips
+
 
 <div align="center" style = "box-pack: start;">
   </br>
@@ -16,9 +19,7 @@
   </br>
    </a>
    
-  #### Standard Library
-  
- 
+  #### Essential extensions
   <table>
         <tr>
     <th><a href = "https://github.com/ChifiSource/ToolipsSession.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></a></th>
@@ -57,41 +58,7 @@
 
   </tr>
     </table>
-    <h4>toolips projects</h4>
-    <table>
-    <tr>
-    <th><a href = "https://github.com/ChifiSource/ToolipsApp.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/Prrty.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/prrty.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/Olive.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/olive/default.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/Peel.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/peel.png"></a></th>
-    </tr>
-    <tr>
-<td align = "center">
-      
-**unreleased**
 
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-</tr>
-    </table>
 
 
 #### more extensions
