@@ -1,11 +1,30 @@
 <div align = "center">
 <img src = "https://github.com/ChifiSource/image_dump/blob/main/77068968.png" width = 150>
-<h5>chifi | an open-source software dynasty.</h5>
+<h5>chifi | an open-source software dynasty. | <a href="https://chifi.dev>blog">publication</a> |</h5>
 </div>
 
-#### teams
-- [toolips](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia.
-- [odd-data](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia.
+## map
+#### projects
+##### software
+- [**olive**](https://github.com/ChifiSource/Olive.jl) - Notebooks for Julia [ecosystem]()
+##### modules
+- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem]()
+
+- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia. [ecosystem]()
+
+
+# olive
+<div align="center" style = "box-pack: start;">
+  </br>
+  <a href = https://github.com/ChifiSource/Olive.jl>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/olivelogo.png">
+  
+  **not yet released**
+  
+  </br>
+   </a>
+</div>
+
 # toolips
 
 
@@ -19,7 +38,7 @@
   </br>
    </a>
    
-  #### Essential extensions
+  #### common
   <table>
         <tr>
     <th><a href = "https://github.com/ChifiSource/ToolipsSession.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></a></th>
@@ -61,7 +80,7 @@
 
 
 
-#### more extensions
+#### extended
 <table>
 <tr>
 <th><a href = "https://github.com/ChifiSource/ToolipsMemWrite.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmemwrite.png"></a></th>
@@ -113,10 +132,17 @@
 <th><a href = "https://github.com/ChifiSource/ToolipsPTP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsptp.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsMultipleDispatch.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmultipledispatch.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsCanvas.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipscanvas.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsDialogs.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsdialogs.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsAuth.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsauth.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsSVG.png"></a></th>
 </tr>
 <tr>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
 <td align = "center">
       
 **unreleased**
@@ -160,6 +186,7 @@
     <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
     <th><a href = "https://github.com/ChifiSource/OddFrames.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/oddframes/logo.png" ></a></th>
     <th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
+        <th><a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/Lathe.jl/blob/master/assets/lathelogo.png" ></a></th>
   </tr>
   <tr>
     <td align = "center">
@@ -181,6 +208,11 @@
       <td align = "center">
       
 [![version](https://juliahub.com/docs/CarouselArrays/version.svg)](https://juliahub.com/ui/Packages/CarouselArrays/aznIg)
+      
+ </td>
+       <td align = "center">
+      
+[![version](https://juliahub.com/docs/Lathe/version.svg)](https://juliahub.com/ui/Packages/Lathe/6rMNJ)
       
  </td>
   </tr>
