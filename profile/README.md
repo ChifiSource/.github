@@ -3,18 +3,19 @@
 <h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev>blog">publication</a> </h5>
 </div>
 
-## map
-#### projects
-##### websites
-##### software
+# map
+##### [websites](https://github.com/ChifiSource#websites)
+##### [software](https://github.com/ChifiSource#software)
 - [**olive**](https://github.com/ChifiSource/Olive.jl) - Notebooks for Julia [ecosystem](https://github.com/ChifiSource#olive)
-##### ecosystems
+##### [ecosystems](https://github.com/ChifiSource#ecosystems)
 - [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem](https://github.com/ChifiSource#toolips)
 
 - [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia. [ecosystem](https://github.com/ChifiSource#odddata)
 
+# websites
 
-# olive
+# software
+## olive
 <div align="center" style = "box-pack: start;">
   </br>
   <a href = https://github.com/ChifiSource/Olive.jl>
@@ -26,7 +27,8 @@
    </a>
 </div>
 
-# toolips
+# ecosystems
+## toolips
 
 
 <div align="center" style = "box-pack: start;">
@@ -192,11 +194,9 @@ not released</a>
 </tr>
 </table>
 
+<div align = "left">
 
-</br>
-        <img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/odddata_portable.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
-  <h3>odddata</h3></a>
-  <div align = "left">
+## odddata
   The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
   
   
