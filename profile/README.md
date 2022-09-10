@@ -7,11 +7,11 @@
 #### projects
 ##### websites
 ##### software
-- [**olive**](https://github.com/ChifiSource/Olive.jl) - Notebooks for Julia [ecosystem](https://github.com/ChifiSource/.github/edit/main/profile/README.md#olive)
+- [**olive**](https://github.com/ChifiSource/Olive.jl) - Notebooks for Julia [ecosystem](https://github.com/ChifiSource#olive)
 ##### ecosystems
-- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem](https://github.com/ChifiSource/.github/edit/main/profile/README.md#toolips)
+- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem](https://github.com/ChifiSource#toolips)
 
-- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia. [ecosystem](https://github.com/ChifiSource/.github/edit/main/profile/README.md#odddata)
+- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia. [ecosystem](https://github.com/ChifiSource#odddata)
 
 
 # olive
