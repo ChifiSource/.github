@@ -195,7 +195,7 @@ not released</a>
 
 </br>
         <img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/odddata_portable.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
-  <h3> odd data </h3></a>
+  <h3>odddata</h3></a>
   <div align = "left">
   The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
   
