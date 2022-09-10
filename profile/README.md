@@ -1,16 +1,17 @@
 <div align = "center">
 <img src = "https://github.com/ChifiSource/image_dump/blob/main/77068968.png" width = 150>
-<h5>chifi | an open-source software dynasty. | <a href="https://chifi.dev>blog">publication</a> |</h5>
+<h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev>blog">publication</a> </h5>
 </div>
 
 ## map
 #### projects
+##### websites
 ##### software
-- [**olive**](https://github.com/ChifiSource/Olive.jl) - Notebooks for Julia [ecosystem]()
-##### modules
-- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem]()
+- [**olive**](https://github.com/ChifiSource/Olive.jl) - Notebooks for Julia [ecosystem](https://github.com/ChifiSource/.github/edit/main/profile/README.md#olive)
+##### ecosystems
+- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem](https://github.com/ChifiSource/.github/edit/main/profile/README.md#toolips)
 
-- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia. [ecosystem]()
+- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia. [ecosystem](https://github.com/ChifiSource/.github/edit/main/profile/README.md#odddata)
 
 
 # olive
@@ -37,8 +38,23 @@
   
   </br>
    </a>
-   
+<div align = "left">
+The toolips ecosystem is all about bringing ease of use and declarative Julia syntax to the world of web-development. The ecosystem revolves around the *Toolips.jl* module, which defines the base types and infastructure for the toolips way of programming. Subsequent packages build on this, and different portions of the ecosystem can be selected incredibly easily and used individually at whim. This makes the framework useful in a much larger variety of applications; from minimalist web-development to enormous one-page apps. Toolips was originally conceived to build *Olive.jl*, and more than provides on the tools to do so.
+
+
+</div>
+
+#### stuff
+  <a href = https://github.com/ChifiSource/ToolipsApp.jl>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png">
+  
+not released </br></a>
+    <a href = https://github.com/ChifiSource/Peel.jl>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/peel.png">
+  
+not released</a>
   #### common
+  
   <table>
         <tr>
     <th><a href = "https://github.com/ChifiSource/ToolipsSession.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></a></th>
@@ -180,39 +196,93 @@
 </br>
         <img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/odddata_portable.png" href = "https://github.com/orgs/ChifiSource/teams/odd-data" >
   <h3> odd data </h3></a>
+  <div align = "left">
+  The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
+  
+  
+  ## grouped packages
+  there are currently no grouped packages. these will be tons of odd-data modules packaged together, like odd structures or odd data.
+
+  ## core
+  
   <table>
-  <tr>
+    <tr>
     <th><a href = "https://github.com/ChifiSource/ParseNotEval.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></a></th>
-    <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
-    <th><a href = "https://github.com/ChifiSource/OddFrames.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/oddframes/logo.png" ></a></th>
-    <th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
-        <th><a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/Lathe.jl/blob/master/assets/lathelogo.png" ></a></th>
-  </tr>
-  <tr>
-    <td align = "center">
+    <th><a href = "https://github.com/ChifiSource/QuickReaders.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/quickreaders/logo.png" ></a></th>
+    </tr>
+    <tr>
+        <td align = "center">
     
       
 [![version](https://juliahub.com/docs/ParseNotEval/version.svg)](https://juliahub.com/ui/Packages/ParseNotEval/r4sWd)
       
  </td>
-     <td align = "center">
+         <td align = "center">
+    
       
 **unreleased**
       
  </td>
-      <td align = "center">
+ </tr>
+    </table>
+    
+  ##### oddframes
+  
+  <table>
+  <tr>
+  <th><a href = "https://github.com/ChifiSource/OddFrames.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/oddframes/logo.png" ></a></th></tr>
+        <td align = "center">
       
 **unreleased**
       
  </td>
+  </table>
+  
+  ##### arrays
+  
+  <table>
+  <tr>
+<th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
+</tr>
+<tr>
       <td align = "center">
       
 [![version](https://juliahub.com/docs/CarouselArrays/version.svg)](https://juliahub.com/ui/Packages/CarouselArrays/aznIg)
       
  </td>
-       <td align = "center">
+ </tr>
+</table>
+
+  ## science
+  
+<table>
+<tr>
+<th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
+    
+    
+ <th><a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/Lathe.jl/blob/master/assets/lathelogo.png" ></a></th>
+  </tr>
+  
+  <tr>
+
+
+<td align = "center">
       
-[![version](https://juliahub.com/docs/Lathe/version.svg)](https://juliahub.com/ui/Packages/Lathe/6rMNJ)
+      
+      
+**unreleased**
+      
+      
+ </td>
+      
+      
+
+<td align = "center">
+      
+      
+      
+**unreleased**
+      
       
  </td>
   </tr>
