@@ -8,7 +8,7 @@
 
 
   <a href = "https://toolips.app/">
-  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png">
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png">
   </a>
   
   
@@ -65,10 +65,14 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </div>
 
 #### stuff
-    <a href = https://github.com/ChifiSource/Peel.jl>
+
+
+
+<a href = "https://github.com/ChifiSource/Peel.jl">
   <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/peel.png">
   
-not released</a>
+not released</img></a>
+
   #### common
   
   <table>
