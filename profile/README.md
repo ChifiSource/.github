@@ -5,6 +5,24 @@
 
 # map
 ##### [websites](https://github.com/ChifiSource#websites)
+
+
+  <a href = "https://toolips.app/">
+  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png">
+  </a>
+  
+  
+**unreleased** [source](https://github.com/ChifiSource/ToolipsApp.jl)
+  
+  
+  </br>
+    <a href = https://olive.creator/>
+  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/olivecreator.png">
+  </a>
+  
+**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
+
+  
 ##### [software](https://github.com/ChifiSource#software)
 - [**olive**](https://github.com/ChifiSource/Olive.jl) - Notebooks for Julia [ecosystem](https://github.com/ChifiSource#olive)
 ##### [ecosystems](https://github.com/ChifiSource#ecosystems)
@@ -47,10 +65,6 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </div>
 
 #### stuff
-  <a href = https://github.com/ChifiSource/ToolipsApp.jl>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png">
-  
-not released </br></a>
     <a href = https://github.com/ChifiSource/Peel.jl>
   <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/peel.png">
   
