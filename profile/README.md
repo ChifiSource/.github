@@ -24,7 +24,8 @@
 
   
 ##### [software](https://github.com/ChifiSource#software)
-- [**olive**](https://github.com/ChifiSource/Olive.jl) - Notebooks for Julia [ecosystem](https://github.com/ChifiSource#olive)
+- [**olive**](https://github.com/ChifiSource/Olive.jl) - notebooks for julia [overview](https://github.com/ChifiSource#olive)
+- [**vulta**](https://github.com/ChifiSource/Vulta.jl) - a julia game engine [overview](https://github.com/ChifiSource#vulta)
 ##### [ecosystems](https://github.com/ChifiSource#ecosystems)
 - [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem](https://github.com/ChifiSource#toolips)
 
@@ -45,6 +46,60 @@
    </a>
 </div>
 
+##### text editing reimagined with multiple dispatch
+Weave cells into existence with simple syntax and then dispatch them at will, load extensions by creating methods. Olive is soon to have a first release -- this page will be updated when this happens!
+
+## vulta
+
+<div align="center" style = "box-pack: start;">
+  </br>
+  <a href = https://github.com/ChifiSource/Vulta.jl>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/vulta/vultaatte.png">
+  
+  **not yet released**
+  </a>
+  </br>
+  
+#### yes, this is as crazy as it sounds
+With a great `Component` structure coming from toolips, and being able to describe any given shape as anything and keyframe transition it, comes the highly predictable potential for vector graphics and video games. There will be short demos for this sooner than one might think! Thank you for your interest in the project :)
+  
+  
+  </a>
+</div>
+<div align="center" style = "box-pack: start;">
+  </br>
+  <a href = https://github.com/ChifiSource/VultaCompiler.jl>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/vulta/vultacompiler.png">
+  
+  **not yet released**
+  
+  </br>
+   </a>
+</div>
+
+<div align="center" style = "box-pack: start;">
+  </br>
+  <a href = https://github.com/ChifiSource/Prrty.jl>
+  <img width = 70 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/prrty.png">
+  
+  **not yet released**
+  
+  </br>
+   </a>
+</div>
+
+<div align="center" style = "box-pack: start;">
+  </br>
+  <a href = https://github.com/ChifiSource/VultaOlive.jl>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/vulta/vultaolive.png">
+  
+  **not yet released**
+  
+  </br>
+   </a>
+</div>
+
+
 # ecosystems
 ## toolips
 
@@ -59,17 +114,15 @@
   </br>
    </a>
 <div align = "left">
+
+#### a manic web-development framework
 The toolips ecosystem is all about bringing ease of use and declarative Julia syntax to the world of web-development. The ecosystem revolves around the *Toolips.jl* module, which defines the base types and infastructure for the toolips way of programming. Subsequent packages build on this, and different portions of the ecosystem can be selected incredibly easily and used individually at whim. This makes the framework useful in a much larger variety of applications; from minimalist web-development to enormous one-page apps. Toolips was originally conceived to build *Olive.jl*, and more than provides on the tools to do so.
 
 
 </div>
 
-#### stuff
-
-
-
-<a href = "https://github.com/ChifiSource/Peel.jl">
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/peel.png">
+<a href = "https://github.com/ChifiSource/Bouquet.jl">
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/bouquet.png">
   
 not released</img></a>
 
@@ -278,7 +331,7 @@ not released</img></a>
 <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
     
     
- <th><a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/Lathe.jl/blob/master/assets/lathelogo.png" ></a></th>
+ <th><a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
   </tr>
   
   <tr>
