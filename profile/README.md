@@ -4,8 +4,19 @@
 </div>
 
 # map
-##### [websites](https://github.com/ChifiSource#websites)
+This ecosystem is currently in an **early** stage of development. However, as of right now the [toolips](https://github.com/ChifiSource#toolips) ecosystem is **incredible**. We are on the verge of releasing more packages for both that ecosystem and the beginnings of olive.jl. Any project with a green icon next to it in this README is considered **stable**.
+#### [websites](https://github.com/ChifiSource#websites)
+- [toolips app !](https://toolips.app/)
+- [olive creator](https://olive.creator/)
+#### [software](https://github.com/ChifiSource#software)
+- [**olive**](https://github.com/ChifiSource/Olive.jl) - notebooks for julia [overview](https://github.com/ChifiSource#olive)
+- [**vulta**](https://github.com/ChifiSource/Vulta.jl) - a julia game engine [overview](https://github.com/ChifiSource#vulta)
+#### [ecosystems](https://github.com/ChifiSource#ecosystems)
+- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem](https://github.com/ChifiSource#toolips)
 
+- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia. [ecosystem](https://github.com/ChifiSource#odddata)
+
+## websites
 
   <a href = "https://toolips.app/">
   <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png">
@@ -22,16 +33,6 @@
   
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
 
-  
-##### [software](https://github.com/ChifiSource#software)
-- [**olive**](https://github.com/ChifiSource/Olive.jl) - notebooks for julia [overview](https://github.com/ChifiSource#olive)
-- [**vulta**](https://github.com/ChifiSource/Vulta.jl) - a julia game engine [overview](https://github.com/ChifiSource#vulta)
-##### [ecosystems](https://github.com/ChifiSource#ecosystems)
-- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem](https://github.com/ChifiSource#toolips)
-
-- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia. [ecosystem](https://github.com/ChifiSource#odddata)
-
-# websites
 
 # software
 ## olive
