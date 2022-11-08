@@ -3,8 +3,12 @@
 <h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev>blog">publication</a> </h5>
 </div>
 
+#### welcome to chifi
+- an open-source software dynasty
+
+This is a collective programming effort driven by everyone for the socialization of creation.
+
 # map
-This ecosystem is currently in an **early** stage of development. However, as of right now the [toolips](https://github.com/ChifiSource#toolips) ecosystem is **incredible**. We are on the verge of releasing more packages for both that ecosystem and the beginnings of olive.jl. Any project with a green icon next to it in this README is considered **stable**.
 #### [websites](https://github.com/ChifiSource#websites)
 - [toolips app !](https://toolips.app/)
 - [olive creator](https://olive.creator/)
@@ -66,16 +70,6 @@ With a great `Component` structure coming from toolips, and being able to descri
   
   
   </a>
-</div>
-<div align="center" style = "box-pack: start;">
-  </br>
-  <a href = https://github.com/ChifiSource/VultaCompiler.jl>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/vulta/vultacompiler.png">
-  
-  **not yet released**
-  
-  </br>
-   </a>
 </div>
 
 <div align="center" style = "box-pack: start;">
@@ -219,32 +213,11 @@ not released</img></a>
 </td>
 </tr>
 <tr>
-<th><a href = "https://github.com/ChifiSource/ToolipsPTP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsptp.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsMultipleDispatch.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmultipledispatch.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsDialogs.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsdialogs.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsAuth.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsauth.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsSVG.png"></a></th>
 </tr>
 <tr>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
 <td align = "center">
       
 **unreleased**
