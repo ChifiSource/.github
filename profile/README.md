@@ -2,7 +2,7 @@
 <img src = "https://github.com/ChifiSource/image_dump/blob/main/77068968.png" width = 150>
 <h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev>blog">publication</a> </h5>
 </div>
-
+### [skip readme](https://github.com/ChifiSource/ChifiSource#thanks)
 #### welcome to chifi
 - an open-source software dynasty
 
@@ -337,3 +337,5 @@ not released</img></a>
     </br>
     
   </div>
+
+## thanks
