@@ -8,7 +8,7 @@
 
 This is a collective programming effort driven by everyone for the socialization of creation.
 
-### [skip readme](https://github.com/ChifiSource/ChifiSource#thanks)
+### [skip readme](https://github.com/ChifiSource#thanks)
 # map
 #### [websites](https://github.com/ChifiSource#websites)
 - [toolips app !](https://toolips.app/)
