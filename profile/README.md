@@ -2,12 +2,13 @@
 <img src = "https://github.com/ChifiSource/image_dump/blob/main/77068968.png" width = 150>
 <h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev>blog">publication</a> </h5>
 </div>
-### [skip readme](https://github.com/ChifiSource/ChifiSource#thanks)
+
 #### welcome to chifi
 - an open-source software dynasty
 
 This is a collective programming effort driven by everyone for the socialization of creation.
 
+### [skip readme](https://github.com/ChifiSource/ChifiSource#thanks)
 # map
 #### [websites](https://github.com/ChifiSource#websites)
 - [toolips app !](https://toolips.app/)
