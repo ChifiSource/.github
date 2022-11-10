@@ -15,7 +15,7 @@ This is a collective programming effort driven by everyone for the socialization
 - [olive creator](https://olive.creator/)
 #### [software](https://github.com/ChifiSource#software)
 - [**olive**](https://github.com/ChifiSource/Olive.jl) - notebooks for julia [overview](https://github.com/ChifiSource#olive)
-- [**vulta**](https://github.com/ChifiSource/Vulta.jl) - a julia game engine [overview](https://github.com/ChifiSource#vulta)
+- [**vulta**](https://github.com/ChifiSource/Vulta.jl) - a vector multimedia for julia [overview](https://github.com/ChifiSource#vulta)
 #### [ecosystems](https://github.com/ChifiSource#ecosystems)
 - [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem](https://github.com/ChifiSource#toolips)
 
