@@ -1,12 +1,8 @@
 <div align = "center">
 <img src = "https://github.com/ChifiSource/image_dump/blob/main/77068968.png" width = 150>
-<h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev>blog">publication</a> </h5>
+<h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev">blog</a> </h5>
 </div>
 
-#### welcome to chifi
-- an open-source software dynasty
-
-This is a collective programming effort driven by everyone for the socialization of creation.
 
 ### [skip readme](https://github.com/ChifiSource#thanks)
 # map
@@ -246,11 +242,6 @@ not released</img></a>
   The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
   
   
-  ## grouped packages
-  there are currently no grouped packages. these will be tons of odd-data modules packaged together, like odd structures or odd data.
-
-  ## core
-  
   <table>
     <tr>
     <th><a href = "https://github.com/ChifiSource/ParseNotEval.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></a></th>
@@ -272,8 +263,6 @@ not released</img></a>
  </tr>
     </table>
     
-  ##### oddframes
-  
   <table>
   <tr>
   <th><a href = "https://github.com/ChifiSource/OddFrames.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/oddframes/logo.png" ></a></th></tr>
@@ -283,8 +272,6 @@ not released</img></a>
       
  </td>
   </table>
-  
-  ##### arrays
   
   <table>
   <tr>
@@ -298,9 +285,6 @@ not released</img></a>
  </td>
  </tr>
 </table>
-
-  ## science
-  
 <table>
 <tr>
 <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
