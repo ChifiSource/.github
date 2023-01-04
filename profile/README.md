@@ -11,11 +11,8 @@
 - [olive creator](https://olive.creator/)
 #### [software](https://github.com/ChifiSource#software)
 - [**olive**](https://github.com/ChifiSource/Olive.jl) - notebooks for julia [overview](https://github.com/ChifiSource#olive)
-- [**vulta**](https://github.com/ChifiSource/Vulta.jl) - a vector multimedia for julia [overview](https://github.com/ChifiSource#vulta)
-#### [ecosystems](https://github.com/ChifiSource#ecosystems)
-- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extendable web-development for Julia. [ecosystem](https://github.com/ChifiSource#toolips)
-
-- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data essentials for Julia. [ecosystem](https://github.com/ChifiSource#odddata)
+- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extensible web-development. [overview](https://github.com/ChifiSource#toolips)
+- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data and Science packages. [overview](https://github.com/ChifiSource#odddata)
 
 ## websites
 
@@ -48,51 +45,9 @@
    </a>
 </div>
 
-##### text editing reimagined with multiple dispatch
-Weave cells into existence with simple syntax and then dispatch them at will, load extensions by creating methods. Olive is soon to have a first release -- this page will be updated when this happens!
+###### soon to come: olive!
+Olive is an extensible text-editor/IDE/Notebook for Julia!
 
-## vulta
-
-<div align="center" style = "box-pack: start;">
-  </br>
-  <a href = https://github.com/ChifiSource/Vulta.jl>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/vulta/vultaatte.png">
-  
-  **not yet released**
-  </a>
-  </br>
-  
-#### yes, this is as crazy as it sounds
-With a great `Component` structure coming from toolips, and being able to describe any given shape as anything and keyframe transition it, comes the highly predictable potential for vector graphics and video games. There will be short demos for this sooner than one might think! Thank you for your interest in the project :)
-  
-  
-  </a>
-</div>
-
-<div align="center" style = "box-pack: start;">
-  </br>
-  <a href = https://github.com/ChifiSource/Prrty.jl>
-  <img width = 70 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/prrty.png">
-  
-  **not yet released**
-  
-  </br>
-   </a>
-</div>
-
-<div align="center" style = "box-pack: start;">
-  </br>
-  <a href = https://github.com/ChifiSource/VultaOlive.jl>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/vulta/vultaolive.png">
-  
-  **not yet released**
-  
-  </br>
-   </a>
-</div>
-
-
-# ecosystems
 ## toolips
 
 
@@ -110,13 +65,6 @@ With a great `Component` structure coming from toolips, and being able to descri
 #### a manic web-development framework
 The toolips ecosystem is all about bringing ease of use and declarative Julia syntax to the world of web-development. The ecosystem revolves around the *Toolips.jl* module, which defines the base types and infastructure for the toolips way of programming. Subsequent packages build on this, and different portions of the ecosystem can be selected incredibly easily and used individually at whim. This makes the framework useful in a much larger variety of applications; from minimalist web-development to enormous one-page apps. Toolips was originally conceived to build *Olive.jl*, and more than provides on the tools to do so.
 
-
-</div>
-
-<a href = "https://github.com/ChifiSource/Bouquet.jl">
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/bouquet.png">
-  
-not released</img></a>
 
   #### common
   
@@ -213,6 +161,8 @@ not released</img></a>
 <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsAuth.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsauth.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsSVG.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/prrty.png"></a></th>
 </tr>
 <tr>
 <td align = "center">
@@ -227,6 +177,20 @@ not released</img></a>
 
 
 </td>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+
 <td align = "center">
       
 **unreleased**
