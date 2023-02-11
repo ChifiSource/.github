@@ -5,51 +5,13 @@
 
 
 ### [skip readme](https://github.com/ChifiSource#thanks)
-# map
-#### [websites](https://github.com/ChifiSource#websites)
-- [toolips app !](https://toolips.app/)
-- [olive creator](https://olive.creator/)
-#### [software](https://github.com/ChifiSource#software)
-- [**olive**](https://github.com/ChifiSource/Olive.jl) - notebooks for julia [overview](https://github.com/ChifiSource#olive)
-- [**toolips**](https://github.com/orgs/ChifiSource/teams/toolips) - Extensible web-development. [overview](https://github.com/ChifiSource#toolips)
-- [**odd-data**](https://github.com/orgs/ChifiSource/teams/odd-data) - Data and Science packages. [overview](https://github.com/ChifiSource#odddata)
-
-## websites
-
-  <a href = "https://toolips.app/">
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png">
-  </a>
-  
-  
-**unreleased** [source](https://github.com/ChifiSource/ToolipsApp.jl)
-  
-  
-  </br>
-    <a href = https://olive.creator/>
-  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/olivecreator.png">
-  </a>
-  
-**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
-
-
-# software
-## olive
-<div align="center" style = "box-pack: start;">
-  </br>
-  <a href = https://github.com/ChifiSource/Olive.jl>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/olivelogo.png">
-  
-  **not yet released**
-  
-  </br>
-   </a>
-</div>
-
-###### soon to come: olive!
-Olive is an extensible text-editor/IDE/Notebook for Julia!
+## map
+- [**toolips**](#toolips) - Extensible web-development. [overview](https://github.com/ChifiSource#toolips)
+- [**olive**](#olive) - Customizable notebook/IDE for julia. [overview](https://github.com/ChifiSource#olive)
+- [**prrty**](#prrty) - Dashboards and plots for Julia
+- [**odddata**](#odddata) - WIP data-oriented ecosystem.
 
 ## toolips
-
 
 <div align="center" style = "box-pack: start;">
   </br>
@@ -60,6 +22,12 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
   
   </br>
    </a>
+     <a href = "https://toolips.app/">
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png">
+  </a>
+  
+  
+**unreleased** [source](https://github.com/ChifiSource/ToolipsApp.jl)
 <div align = "left">
 
 #### a manic web-development framework
@@ -161,8 +129,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsAuth.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsauth.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsSVG.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/prrty.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
 </tr>
 <tr>
 <td align = "center">
@@ -200,7 +167,38 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </tr>
 </table>
 
+## olive
+<div align="center" style = "box-pack: start;">
+  </br>
+  <a href = https://github.com/ChifiSource/Olive.jl>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/olivelogo.png">
+  
+  **not yet released**
+  
+  </br>
+   </a>
+     </br>
+    <a href = https://olive.creator/>
+  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/olivecreator.png">
+  </a>
+  
+**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
+</div>
+
+###### soon to come: olive!
+Olive is an extensible text-editor/IDE/Notebook for Julia!
+
+
+
 <div align = "left">
+
+
+## prrty
+
+<th><a href = "https://github.com/ChifiSource/Prrty.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/prrty.png"></a></th>
+
+###### soon to come: prrty!
+Prrty takes the toolips methodology of extensibility, modularity, and simplicity and applies these same ideas to plotting.
 
 ## odddata
   The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
