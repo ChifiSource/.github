@@ -158,6 +158,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 
 </td>
 
+
 <td align = "center">
       
 **unreleased**
@@ -183,6 +184,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
   </a>
   
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
+
 </div>
 
 ###### soon to come: olive!
@@ -192,6 +194,24 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 
 <div align = "left">
 
+<table>
+<tr>  
+ <th><a href = "https://github.com/ChifiSource/OliveDefaults.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2defaults.png" ></a></th>
+  </tr>
+  
+  <tr>
+
+
+<td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+</tr>
+</table>
 
 ## prrty
 
