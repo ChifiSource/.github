@@ -172,7 +172,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 <div align="center" style = "box-pack: start;">
   </br>
   <a href = https://github.com/ChifiSource/Olive.jl>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/olivelogo.png">
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemain.png">
   
   **not yet released**
   
@@ -180,7 +180,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
    </a>
      </br>
     <a href = https://olive.creator/>
-  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/olivecreator.png">
+  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2creator.png">
   </a>
   
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
@@ -197,12 +197,21 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 <table>
 <tr>  
  <th><a href = "https://github.com/ChifiSource/OliveDefaults.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2defaults.png" ></a></th>
+   <th><a href = "https://github.com/ChifiSource/OliveMarkdown.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemd.png" ></a></th>
   </tr>
   
   <tr>
 
 
 <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+ <td align = "center">
       
       
       
