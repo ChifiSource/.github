@@ -168,6 +168,8 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </tr>
 </table>
 
+## toolips/olive
+  
 ## olive
 <div align="center" style = "box-pack: start;">
   </br>
@@ -221,6 +223,10 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
  </td>
 </tr>
 </table>
+
+ ## olive/prrty
+<th><a href = "https://github.com/ChifiSource/PrrtyDashBooks.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/PrrtyDashBooks.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/Contexts.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/contexts/Contexts.png"></a></th>
 
 ## prrty
 
