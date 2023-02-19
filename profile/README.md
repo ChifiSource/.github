@@ -169,6 +169,11 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </table>
 
 ## toolips/olive
+
+<div align="center">
+<a href = https://github.com/ChifiSource/Olive.jl>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/bouquet.png"></a>
+</div>  
   
 ## olive
 <div align="center" style = "box-pack: start;">
