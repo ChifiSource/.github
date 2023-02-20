@@ -6,10 +6,10 @@
 
 ### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
-- [**toolips**](#toolips) - Extensible web-development. [overview](https://github.com/ChifiSource#toolips)
-- [**olive**](#olive) - Customizable notebook/IDE for julia. [overview](https://github.com/ChifiSource#olive)
-- [**prrty**](#prrty) - Dashboards and plots for Julia
-- [**odddata**](#odddata) - WIP data-oriented ecosystem.
+- [**toolips**](#toolips) - Extensible web-development.
+- [**olive**](#olive) - Customizable notebook/IDE for julia. **WIP**
+- [**prrty**](#prrty) - Dashboards and plots for Julia. **WIP**
+- [**odddata**](#odddata) - Random data packages. **WIP**
 
 ## toolips
 
