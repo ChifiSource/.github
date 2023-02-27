@@ -16,9 +16,8 @@
     - [projects](https://github.com/ChifiSource#projects)
     - [bouquet webdesigner](https://github.com/ChifiSource#bouquet)
 - [**olive**](#olive) - Customizable notebook/IDE for julia. **WIP**
-    - [extensions](https://
 - [**prrty**](#prrty) - Dashboards and plots for Julia. **WIP**
-    -
+    - [info](https://github.com/ChifiSource#soon-to-come-prrty!)
 - [**odddata**](#odddata) - Random data packages. **WIP**
 
 ## toolips
