@@ -10,10 +10,13 @@
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
 - [**toolips**](#toolips) - Extensible web-development.
-    - [common](https://github.com/ChifiSource#common)
-    - [extended](https://github.com/ChifiSource#extended)
+    - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
+    - [common extensions](https://github.com/ChifiSource#common)
+    - [extended extended](https://github.com/ChifiSource#extended)
     - [projects](https://github.com/ChifiSource#projects)
+    - [bouquet webdesigner](https://github.com/ChifiSource#bouquet)
 - [**olive**](#olive) - Customizable notebook/IDE for julia. **WIP**
+    - [extensions](https://
 - [**prrty**](#prrty) - Dashboards and plots for Julia. **WIP**
     -
 - [**odddata**](#odddata) - Random data packages. **WIP**
@@ -211,11 +214,14 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </tr>
 </table>
 
-## toolips/olive
+### bouquet
 
 <div align="center">
-<a href = https://github.com/ChifiSource/Olive.jl>
+<a href = https://github.com/ChifiSource/Bouquet.jl>
   <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/bouquet.png"></a>
+    
+**unreleased**
+
 </div>  
   
 ## olive
