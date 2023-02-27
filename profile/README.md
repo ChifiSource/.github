@@ -84,8 +84,6 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 <th><a href = "https://github.com/ChifiSource/ToolipsExport.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsexport.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsRemote.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsremote.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsUploader.jl" width = 20><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsManager.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmanager.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsInterpolator.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsinterpolator.png"></a></th>
     </tr>
     <tr>
 <td align = "center">
@@ -112,24 +110,12 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 
 
 </td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsInterpolator/version.svg)](https://juliahub.com/ui/Packages/ToolipsInterpolator/s1Jlr)
-
-
-</td>
 </tr>
 <tr>
-<th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsManager.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmanager.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsAuth.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsauth.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsSVG.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsInterpolator.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsinterpolator.png"></a></th>
 </tr>
 <tr>
 <td align = "center">
@@ -153,12 +139,32 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 
 <td align = "center">
       
-**unreleased**
+[![version](https://juliahub.com/docs/ToolipsInterpolator/version.svg)](https://juliahub.com/ui/Packages/ToolipsInterpolator/s1Jlr)
 
 
 </td>
 
 
+</tr>
+<tr>
+<th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsORM.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsORM.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/ToolipsAV.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsAV.png"></a></th>
+</tr>
+
+<tr>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
 <td align = "center">
       
 **unreleased**
@@ -166,6 +172,12 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 
 </td>
 </tr>
+</table>
+
+## projects
+
+<table>
+<th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
 </table>
 
 ## toolips/olive
