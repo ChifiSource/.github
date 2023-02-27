@@ -7,11 +7,15 @@
 </div>
 
 
-### [skip readme](https://github.com/ChifiSource#thanks)
+###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
 - [**toolips**](#toolips) - Extensible web-development.
+    - [common](https://github.com/ChifiSource#common)
+    - [extended](https://github.com/ChifiSource#extended)
+    - [projects](https://github.com/ChifiSource#projects)
 - [**olive**](#olive) - Customizable notebook/IDE for julia. **WIP**
 - [**prrty**](#prrty) - Dashboards and plots for Julia. **WIP**
+    -
 - [**odddata**](#odddata) - Random data packages. **WIP**
 
 ## toolips
@@ -177,7 +181,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </tr>
 </table>
 
-## projects
+#### projects
 
 <table>
 <tr>
