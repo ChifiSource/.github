@@ -183,8 +183,15 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 <tr>
 <th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/Contexts.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/contexts/Contexts.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/Documator.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/documentor/logo.png"></a></th>
 </tr>
 <tr>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
 <td align = "center">
       
 **unreleased**
