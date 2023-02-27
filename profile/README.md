@@ -180,7 +180,24 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 ## projects
 
 <table>
+<tr>
 <th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/Contexts.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/contexts/Contexts.png"></a></th>
+</tr>
+<tr>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+</tr>
 </table>
 
 ## toolips/olive
@@ -245,12 +262,16 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 </table>
 
  ## olive/prrty
+
+<div align = "center">
 <th><a href = "https://github.com/ChifiSource/PrrtyDashBooks.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/PrrtyDashBooks.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/Contexts.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/contexts/Contexts.png"></a></th>
+</div>
 
 ## prrty
 
+<div align = "center">
 <th><a href = "https://github.com/ChifiSource/Prrty.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/prrty.png"></a></th>
+</div>
 
 ###### soon to come: prrty!
 Prrty takes the toolips methodology of extensibility, modularity, and simplicity and applies these same ideas to plotting.
