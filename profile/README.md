@@ -141,7 +141,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </td>
 <td align = "center">
       
-**unreleased**
+[![version](https://juliahub.com/docs/ToolipsSVG/version.svg)](https://juliahub.com/ui/Packages/ToolipsSVG/mz5Wt)
 
 
 </td>
