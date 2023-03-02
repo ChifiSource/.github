@@ -12,7 +12,7 @@
 - [**toolips**](#toolips) - Extensible web-development.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [common extensions](https://github.com/ChifiSource#common)
-    - [extended extended](https://github.com/ChifiSource#extended)
+    - [extended extensions](https://github.com/ChifiSource#extended)
     - [projects](https://github.com/ChifiSource#projects)
     - [bouquet webdesigner](https://github.com/ChifiSource#bouquet)
 - [**olive**](#olive) - Customizable notebook/IDE for julia. **WIP**
@@ -159,9 +159,18 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsORM.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsORM.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsAV.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsAV.png"></a></th>
+</th>
+<th><a href = "https://github.com/ChifiSource/ToolipsCrawl.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipscrawl.png"></a></th>
 </tr>
 
+</tr>
 <tr>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
 <td align = "center">
       
 **unreleased**
