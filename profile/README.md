@@ -286,11 +286,6 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 </tr>
 </table>
 
- ## olive/prrty
-
-<div align = "center">
-<th><a href = "https://github.com/ChifiSource/PrrtyDashBooks.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/PrrtyDashBooks.png"></a></th>
-</div>
 
 ## prrty
 
@@ -300,6 +295,32 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 
 ###### soon to come: prrty!
 Prrty takes the toolips methodology of extensibility, modularity, and simplicity and applies these same ideas to plotting.
+
+<table>
+<tr>  
+ <th><a href = "https://github.com/ChifiSource/PrrtyPleths.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/prrty/prrtypleths.png" ></a></th>
+  </tr>
+  
+  <tr>
+
+
+<td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+</tr>
+</table>
+ 
+ 
+ ###### prrty dashbooks
+ 
+ <div align = "center">
+<th><a href = "https://github.com/ChifiSource/PrrtyDashBooks.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/PrrtyDashBooks.png"></a></th>
+</div>
 
 ## odddata
   The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
