@@ -16,6 +16,7 @@
     - [projects](https://github.com/ChifiSource#projects)
     - [bouquet webdesigner](https://github.com/ChifiSource#bouquet)
 - [**olive**](#olive) - Customizable notebook/IDE for julia. **WIP**
+    - [extensions](https://github.com/ChifiSource#extensions)
 - [**prrty**](#prrty) - Dashboards and plots for Julia. **WIP**
     - [info](https://github.com/ChifiSource#soon-to-come-prrty!)
 - [**odddata**](#odddata) - Random data packages. **WIP**
@@ -253,7 +254,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 
 ###### soon to come: olive!
 Olive is an extensible text-editor/IDE/Notebook for Julia!
-
+### extensions!
 
 
 <div align = "left">
@@ -262,11 +263,28 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 <tr>  
  <th><a href = "https://github.com/ChifiSource/OliveDefaults.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2defaults.png" ></a></th>
    <th><a href = "https://github.com/ChifiSource/OliveMarkdown.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemd.png" ></a></th>
+   <th><a href = "https://github.com/ChifiSource/OlivePy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivepy.png" ></a></th>
+   <th><a href = "https://github.com/ChifiSource/OliveFlex.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveflexcells.png" ></a></th>
   </tr>
   
   <tr>
 
-
+<td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+ <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
 <td align = "center">
       
       
