@@ -339,7 +339,11 @@ Prrty takes the toolips methodology of extensibility, modularity, and simplicity
  <div align = "center">
 <th><a href = "https://github.com/ChifiSource/PrrtyDashBooks.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/PrrtyDashBooks.png"></a></th>
 </div>
-
+## lathe
+Coming soon: Lathe (algebraic ML)
+ <th><a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
+## algia
+Coming soon: Algia (algebraic out-of-memory data :))
 ## odddata
   The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
   
@@ -347,7 +351,8 @@ Prrty takes the toolips methodology of extensibility, modularity, and simplicity
   <table>
     <tr>
     <th><a href = "https://github.com/ChifiSource/ParseNotEval.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></a></th>
-    <th><a href = "https://github.com/ChifiSource/QuickReaders.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/quickreaders/logo.png" ></a></th>
+<th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
+<th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
     </tr>
     <tr>
         <td align = "center">
@@ -356,44 +361,28 @@ Prrty takes the toolips methodology of extensibility, modularity, and simplicity
 [![version](https://juliahub.com/docs/ParseNotEval/version.svg)](https://juliahub.com/ui/Packages/ParseNotEval/r4sWd)
       
  </td>
-         <td align = "center">
-    
-      
-**unreleased**
-      
- </td>
- </tr>
-    </table>
-    
-  <table>
-  <tr>
-  <th><a href = "https://github.com/ChifiSource/OddFrames.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/oddframes/logo.png" ></a></th></tr>
-        <td align = "center">
-      
-**unreleased**
-      
- </td>
-  </table>
-  
-  <table>
-  <tr>
-<th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
-</tr>
-<tr>
-      <td align = "center">
+       <td align = "center">
       
 [![version](https://juliahub.com/docs/CarouselArrays/version.svg)](https://juliahub.com/ui/Packages/CarouselArrays/aznIg)
       
  </td>
+        <td align = "center">
+      
+[![version](https://juliahub.com/docs/IPyCells/version.svg)](https://juliahub.com/ui/Packages/IPyCells/RqXbK)
+      
+ </td>
+ </tr>
+
+    
+    </table>
+    
+
+<tr>
+
  </tr>
 </table>
 <table>
-<tr>
-<th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
-    
-    
- <th><a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
-  </tr>
+
   
   <tr>
 
