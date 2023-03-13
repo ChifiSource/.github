@@ -339,16 +339,22 @@ Prrty takes the toolips methodology of extensibility, modularity, and simplicity
  <div align = "center">
 <th><a href = "https://github.com/ChifiSource/PrrtyDashBooks.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/PrrtyDashBooks.png"></a></th>
 </div>
+
 ## lathe
-Coming soon: Lathe (algebraic ML)
- <th><a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
+##### Coming soon: Lathe (algebraic ML)
+
+<div align="center">
+ <a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
+ </div>
+ 
 ## algia
 Coming soon: Algia (algebraic out-of-memory data :))
+
 ## odddata
   The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
   
   
-  <table>
+<table>
     <tr>
     <th><a href = "https://github.com/ChifiSource/ParseNotEval.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></a></th>
 <th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
@@ -373,41 +379,8 @@ Coming soon: Algia (algebraic out-of-memory data :))
  </td>
  </tr>
 
-    
-    </table>
-    
-
-<tr>
-
- </tr>
 </table>
-<table>
-
-  
-  <tr>
-
-
-<td align = "center">
-      
-      
-      
-**unreleased**
-      
-      
- </td>
-      
-      
-
-<td align = "center">
-      
-      
-      
-**unreleased**
-      
-      
- </td>
-  </tr>
-  </table>
+    
   </br>
   </br>
     </br>
