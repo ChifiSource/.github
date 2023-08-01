@@ -263,9 +263,9 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 <table>
 <tr>  
  <th><a href = "https://github.com/ChifiSource/OliveSession.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivesession.png"></a></th>
+   <th><a href = "https://github.com/ChifiSource/OliveDefaults.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2defaults.png" ></a></th>
    <th><a href = "https://github.com/ChifiSource/OliveMarkdown.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemd.png" ></a></th>
    <th><a href = "https://github.com/ChifiSource/OlivePy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivepy.png" ></a></th>
-   <th><a href = "https://github.com/ChifiSource/OliveFlex.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveflexcells.png" ></a></th>
   </tr>
   
   <tr>
