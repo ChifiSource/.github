@@ -9,15 +9,16 @@
 
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
+- [**overview**](#overview)
 - [**toolips**](#toolips) - Extensible web-development.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [common extensions](https://github.com/ChifiSource#common)
     - [extended extensions](https://github.com/ChifiSource#extended)
     - [projects](https://github.com/ChifiSource#projects)
     - [bouquet webdesigner](https://github.com/ChifiSource#bouquet)
-- [**olive**](#olive) - Customizable notebook/IDE for julia. **WIP**
+- [**olive**](#olive) - Extensible notebook/IDE for julia. **GETTING THERE**
     - [extensions](https://github.com/ChifiSource#extensions)
-- [**prrty**](#prrty) - Dashboards and plots for Julia. **WIP**
+- [**gattino**](#gattino) - Dashboards and plots for Julia. **WIP**
     - [info](https://github.com/ChifiSource#soon-to-come-prrty!)
 - [**odddata**](#odddata) - Random data packages. **WIP**
 
@@ -261,7 +262,7 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 
 <table>
 <tr>  
- <th><a href = "https://github.com/ChifiSource/OliveDefaults.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2defaults.png" ></a></th>
+ <th><a href = "https://github.com/ChifiSource/OliveSession.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivesession.png"></a></th>
    <th><a href = "https://github.com/ChifiSource/OliveMarkdown.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemd.png" ></a></th>
    <th><a href = "https://github.com/ChifiSource/OlivePy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivepy.png" ></a></th>
    <th><a href = "https://github.com/ChifiSource/OliveFlex.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveflexcells.png" ></a></th>
@@ -327,14 +328,15 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 </table>
 
 
-## prrty
+## gattino
 
 <div align = "center">
-<th><a href = "https://github.com/ChifiSource/Prrty.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/prrty.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/Gattino.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino.png"></a></th>
 </div>
 
-###### soon to come: prrty!
-Prrty takes the toolips methodology of extensibility, modularity, and simplicity and applies these same ideas to plotting.
+###### soon to come: gattino
+Gattino is Toolips-based, extensible plotting! (We have a lot of projects)
+
 
 <table>
 <tr>  
@@ -354,13 +356,6 @@ Prrty takes the toolips methodology of extensibility, modularity, and simplicity
  </td>
 </tr>
 </table>
- 
- 
- ###### prrty dashbooks
- 
- <div align = "center">
-<th><a href = "https://github.com/ChifiSource/PrrtyDashBooks.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/PrrtyDashBooks.png"></a></th>
-</div>
 
 ## lathe
 ##### Coming soon: Lathe (algebraic ML)
