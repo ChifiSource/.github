@@ -303,28 +303,6 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
       
  </td>
 </tr>
-    <tr>  
- <th><a href = "https://github.com/ChifiSource/OliveRPC.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliverpc.png" ></a></th>
-        <th><a href = "https://github.com/ChifiSource/OliveAdministrator.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveadmin.png" ></a></th>
-    </tr>
-    <tr>
-       <td align = "center">
-      
-      
-      
-**unreleased**
-      
-      
- </td>
- <td align = "center">
-      
-      
-      
-**unreleased**
-      
-      
- </td> 
-    </tr>
 </table>
 
 
