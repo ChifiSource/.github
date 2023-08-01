@@ -358,15 +358,15 @@ Gattino is Toolips-based, extensible plotting! (We have a lot of projects)
 </table>
 
 ## lathe
-##### Coming soon: Lathe (algebraic ML)
-
 <div align="center">
  <a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
  </div>
  
 ## algia
-Coming soon: Algia (algebraic out-of-memory data :))
-
+<div align="center">
+ <a href = "https://github.com/ChifiSource/Algia.jl"><img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/algia/Algia.png" ></a></th>
+ </div>
+ 
 ## odddata
   The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
   
