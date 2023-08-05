@@ -15,12 +15,11 @@
     - [common extensions](https://github.com/ChifiSource#common)
     - [extended extensions](https://github.com/ChifiSource#extended)
     - [projects](https://github.com/ChifiSource#projects)
-    - [bouquet webdesigner](https://github.com/ChifiSource#bouquet)
 - [**olive**](#olive) - Extensible notebook/IDE for julia. **GETTING THERE**
     - [extensions](https://github.com/ChifiSource#extensions)
 - [**gattino**](#gattino) - Dashboards and plots for Julia. **WIP**
     - [info](https://github.com/ChifiSource#soon-to-come-prrty!)
-- [**odddata**](#odddata) - Random data packages. **WIP**
+- [**stuff**](#odddata) - Random ecosystem packages.
 
 ## toolips
 
@@ -194,36 +193,6 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </tr>
 </table>
 
-#### projects
-
-<table>
-<tr>
-<th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/Contexts.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/contexts/Contexts.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/Documator.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/documentor/logo.png"></a></th>
-</tr>
-<tr>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-</tr>
-</table>
-
 ### bouquet
 
 <div align="center">
@@ -340,15 +309,7 @@ Gattino is Toolips-based, extensible plotting! (We have a lot of projects)
  <a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
  </div>
  
-## algia
-<div align="center">
- <a href = "https://github.com/ChifiSource/Algia.jl"><img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/algia/Algia.png" ></a></th>
- </div>
- 
-## odddata
-  The odd-data ecosystem is a Science-through-data oriented data ecosystem. This ecosystem is currently in its infancy, but the packages that are published are available for use.
-  
-  
+## stuff
 <table>
     <tr>
     <th><a href = "https://github.com/ChifiSource/ParseNotEval.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></a></th>
@@ -357,6 +318,8 @@ Gattino is Toolips-based, extensible plotting! (We have a lot of projects)
     </tr>
     <tr>
         <td align = "center">
+
+        
     
       
 [![version](https://juliahub.com/docs/ParseNotEval/version.svg)](https://juliahub.com/ui/Packages/ParseNotEval/r4sWd)
@@ -375,6 +338,36 @@ Gattino is Toolips-based, extensible plotting! (We have a lot of projects)
  </tr>
 
 </table>
+
+<table>
+<tr>
+<th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/Contexts.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/contexts/Contexts.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/Documator.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/documentor/logo.png"></a></th>
+</tr>
+<tr>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+</tr>
+</table>
+
+
     
   </br>
   </br>
