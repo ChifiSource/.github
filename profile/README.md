@@ -339,22 +339,6 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
 ###### soon to come: gattino
 Gattino is Toolips-based, extensible plotting! (We have a lot of projects)
 
-
-<table>
-<tr>  
- <th><a href = "https://github.com/ChifiSource/PrrtyPleths.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/prrty/prrtypleths.png" ></a></th>
-  </tr>
-  <tr>
-    <td align="center">
-
-**unreleased**
-
-
-
-    </td>
-</tr>
-</table>
-
 ## lathe
 <div align="center">
  <a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
