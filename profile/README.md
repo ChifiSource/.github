@@ -312,9 +312,23 @@ Olive is an extensible text-editor/IDE/Notebook for Julia!
       
       
  </td>
+ 
 </tr>
 </table>
 
+
+<table>
+<tr>  
+ <th><a href = "https://github.com/ChifiSource/OliveR.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveR.png"></a></th>
+</tr>
+<tr><td align="center">
+
+**unreleased**
+
+
+</td>    
+</tr>
+</table>
 
 ## gattino
 
@@ -330,18 +344,14 @@ Gattino is Toolips-based, extensible plotting! (We have a lot of projects)
 <tr>  
  <th><a href = "https://github.com/ChifiSource/PrrtyPleths.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/prrty/prrtypleths.png" ></a></th>
   </tr>
-  
   <tr>
+    <td align="center">
 
-
-<td align = "center">
-      
-      
-      
 **unreleased**
-      
-      
- </td>
+
+
+
+    </td>
 </tr>
 </table>
 
