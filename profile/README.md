@@ -222,8 +222,8 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 
 </div>
 
-###### soon to come: olive!
-Olive is an extensible text-editor/IDE/Notebook for Julia!
+###### pure julia parametric notebooks!
+Olive is a pure julia notebook editor built on the back of multiple dispatch. Through multiple dispatch, olive is able to change functionality entirely by simply having new methods.
 ### extensions!
 
 
