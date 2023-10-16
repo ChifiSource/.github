@@ -193,16 +193,6 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </tr>
 </table>
 
-### bouquet
-
-<div align="center">
-<a href = https://github.com/ChifiSource/Bouquet.jl>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/olive/bouquet.png"></a>
-    
-**unreleased**
-
-</div>  
-  
 ## olive
 <div align="center" style = "box-pack: start;">
   </br>
@@ -320,13 +310,20 @@ Olive is a pure julia notebook editor built on the back of multiple dispatch. Th
 <table>
 <tr>  
  <th><a href = "https://github.com/ChifiSource/OliveR.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveR.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/Bouquet.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/bouquet.png"></a></th>
 </tr>
 <tr><td align="center">
 
 **unreleased**
 
 
-</td>    
+</td>
+<td align="center">
+
+**unreleased**
+
+
+</td>   
 </tr>
 </table>
 
