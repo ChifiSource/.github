@@ -205,7 +205,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
    </a>
      </br>
     <a href = https://olive.creator/>
-  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2creator.png">
+  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
   </a>
   
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
