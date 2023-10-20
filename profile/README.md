@@ -9,7 +9,6 @@
 
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
-- [**overview**](#overview)
 - [**websites**](#websites)
 -   - [olive.creator](#olive-creator)
 - [**toolips**](#toolips) - Extensible web-development.
@@ -21,7 +20,7 @@
     - [extensions](https://github.com/ChifiSource#extensions)
 - [**gattino**](#gattino) - Dashboards and plots for Julia. **WIP**
     - [info](https://github.com/ChifiSource#soon-to-come-prrty!)
-- [**algia**]
+- [**algia**](#algia)
 - [**stuff**](#stuff) - Random ecosystem packages.
 ## websites
 ###### olive creator
@@ -35,6 +34,7 @@
   
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
 </div>
+
 ## toolips
 
 <div align="center" style = "box-pack: start;">
@@ -43,13 +43,6 @@
   <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg">
   
   [![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
-  
-  </br>
-   </a>
-     <a href = "https://toolips.app/">
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsapp.png">
-  </a>
-  
   
 **unreleased** [source](https://github.com/ChifiSource/ToolipsApp.jl)
 <div align = "left">
