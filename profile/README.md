@@ -311,6 +311,7 @@ Olive is a pure julia notebook editor built on the back of multiple dispatch. Th
 <tr>  
  <th><a href = "https://github.com/ChifiSource/OliveR.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveR.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/Bouquet.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/bouquet.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/Bouquet.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveforms.png"></a></th>
 </tr>
 <tr><td align="center">
 
@@ -318,6 +319,12 @@ Olive is a pure julia notebook editor built on the back of multiple dispatch. Th
 
 
 </td>
+<td align="center">
+
+**unreleased**
+
+
+</td>   
 <td align="center">
 
 **unreleased**
