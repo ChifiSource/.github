@@ -10,6 +10,8 @@
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
 - [**overview**](#overview)
+- [**websites**](#websites)
+-   - [olive.creator](#olive-creator)
 - [**toolips**](#toolips) - Extensible web-development.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [common extensions](https://github.com/ChifiSource#common)
@@ -19,8 +21,20 @@
     - [extensions](https://github.com/ChifiSource#extensions)
 - [**gattino**](#gattino) - Dashboards and plots for Julia. **WIP**
     - [info](https://github.com/ChifiSource#soon-to-come-prrty!)
-- [**stuff**](#odddata) - Random ecosystem packages.
-
+- [**algia**]
+- [**stuff**](#stuff) - Random ecosystem packages.
+## websites
+###### olive creator
+<div align="center">
+  </br>
+   </a>
+     </br>
+    <a href = https://olive.creator/>
+  <img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
+  </a>
+  
+**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
+</div>
 ## toolips
 
 <div align="center" style = "box-pack: start;">
@@ -197,18 +211,9 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 <div align="center" style = "box-pack: start;">
   </br>
   <a href = https://github.com/ChifiSource/Olive.jl>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemain.png">
+  <img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemain.png">
   
   **not yet released**
-  
-  </br>
-   </a>
-     </br>
-    <a href = https://olive.creator/>
-  <img width = 300 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
-  </a>
-  
-**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
 
 </div>
 
@@ -343,11 +348,17 @@ Olive is a pure julia notebook editor built on the back of multiple dispatch. Th
 ###### soon to come: gattino
 Gattino is Toolips-based, extensible plotting! (We have a lot of projects)
 
+## algia
+<div align = "center">
+<th><a href = "https://github.com/ChifiSource/Algia.jl" width = 50><img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/algia/Algia.png"></a></th>
+</div>
+
 ## lathe
 <div align="center">
  <a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
  </div>
- 
+
+ **not released**
 ## stuff
 <table>
     <tr>
