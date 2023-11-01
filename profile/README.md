@@ -365,7 +365,20 @@ Gattino is Toolips-based plotting for Julia. This project's base package is stil
 - In-ecosystem **dashboard toolkits**.
 - Clorepleths.
 
-`Gattino` intends to fill most visualization needs in most cases.
+<table>
+<tr>  
+ <th><a href = "https://github.com/ChifiSource/Gattino3D"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino3D.png"></a></th>
+</tr>
+    <tr>
+        <td align="center">
+
+**unreleased**
+
+
+</td>   
+    </tr>
+</table>
+
 ## algia
 <div align = "center">
 <th><a href = "https://github.com/ChifiSource/Algia.jl" width = 50><img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/algia/Algia.png"></a></th>
