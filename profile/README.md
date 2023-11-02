@@ -367,9 +367,16 @@ Gattino is Toolips-based plotting for Julia. This project's base package is stil
 
 <table>
 <tr>  
- <th><a href = "https://github.com/ChifiSource/Gattino3D"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino3D.png"></a></th>
+ <th><a href = "https://github.com/ChifiSource/Gattino3D.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino3D.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/GattinoPleths.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinopleths.png"></a></th>
 </tr>
     <tr>
+        <td align="center">
+
+**unreleased**
+
+
+</td>   
         <td align="center">
 
 **unreleased**
