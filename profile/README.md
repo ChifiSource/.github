@@ -13,13 +13,13 @@
 -   - [olive.creator](#olive-creator)
 - [**toolips**](#toolips) - Extensible web-development.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
-    - [common extensions](https://github.com/ChifiSource#common)
-    - [extended extensions](https://github.com/ChifiSource#extended)
-    - [projects](https://github.com/ChifiSource#projects)
+    - [extensions](https://github.com/ChifiSource#toolips-extensions)
 - [**olive**](#olive) - Extensible notebook/IDE for julia. **GETTING THERE**
-    - [extensions](https://github.com/ChifiSource#extensions)
+    - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
+    - [extensions](https://github.com/ChifiSource#olive-extensions)
 - [**gattino**](#gattino) - Dashboards and plots for Julia. **WIP**
-    - [info](https://github.com/ChifiSource#soon-to-come-prrty!)
+    - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
+    - [extensions](#gattino-extensions)
 - [**algia**](#algia)
 - [**stuff**](#stuff) - Random ecosystem packages.
 ## websites
