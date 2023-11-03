@@ -51,7 +51,7 @@
 The toolips ecosystem is all about bringing ease of use and declarative Julia syntax to the world of web-development. The ecosystem revolves around the *Toolips.jl* module, which defines the base types and infastructure for the toolips way of programming. Subsequent packages build on this, and different portions of the ecosystem can be selected incredibly easily and used individually at whim. This makes the framework useful in a much larger variety of applications; from minimalist web-development to enormous one-page apps. Toolips was originally conceived to build *Olive.jl*, and more than provides on the tools to do so.
 
 
-  #### common
+  ##### toolips extensions
   
   <table>
         <tr>
@@ -90,12 +90,6 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </td>
 
   </tr>
-    </table>
-
-
-
-#### extended
-<table>
 <tr>
 <th><a href = "https://github.com/ChifiSource/ToolipsMemWrite.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmemwrite.png"></a></th>
 <th><a href = "https://github.com/ChifiSource/ToolipsExport.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsexport.png"></a></th>
@@ -230,7 +224,125 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 - **loadable** directories as **profiles**
 - **flexible** and modern design
 - the ability to edit **any** file
-### extensions!
+##### olive extensions
+
+###### session
+
+<table>
+<tr>  
+   <th><a href = "https://github.com/ChifiSource/OliveDefaults.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2defaults.png" ></a></th>
+     <th><a href = "https://github.com/ChifiSource/OliveWorkspaces.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveworkspaces.png" ></a></th>
+</tr>
+    <tr>
+ <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+ <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+    </tr>
+</table>
+
+###### cells
+<table>
+    <tr>
+               <th><a href = "https://github.com/ChifiSource/FlexCells.jl"><img width = 80 src="https://github.com/ChifiSource/image_dump/blob/main/olive/flexcells.png" ></a></th>
+    <th><a href = "https://github.com/ChifiSource/OliveForms.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveforms.png"></a></th>
+    </tr>
+    <tr>
+         <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+  <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+    </tr>
+</table>
+
+###### languages and formats
+<table>
+<tr>  
+ <th><a href = "https://github.com/ChifiSource/OlivePy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivepy.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/OliveR.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveR.png"></a></th>
+   <th><a href = "https://github.com/ChifiSource/OliveMarkdown.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemd.png" ></a></th>
+   <th><a href = "https://github.com/ChifiSource/OliveImages.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveimages.png" ></a></th>
+  </tr>
+  
+  <tr>
+
+<td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+  <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+  <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+  <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+ </tr>
+ </table>
+ 
+###### project editors
+<table>
+<tr>  
+    <th><a href = "https://github.com/ChifiSource/Bouquet.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/bouquet.png"></a></th>
+  </tr>
+  <tr>
+        <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+  </tr>
+</table>
+
+###### servers
 
 
 <div align = "left">
@@ -238,11 +350,8 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 <table>
 <tr>  
  <th><a href = "https://github.com/ChifiSource/OliveSession.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivesession.png"></a></th>
-   <th><a href = "https://github.com/ChifiSource/OliveDefaults.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2defaults.png" ></a></th>
-   <th><a href = "https://github.com/ChifiSource/OliveMarkdown.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemd.png" ></a></th>
-   <th><a href = "https://github.com/ChifiSource/OliveImages.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveimages.png" ></a></th>
+    <th><a href = "https://github.com/ChifiSource/OliveManager.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemanager.png" ></a></th>
   </tr>
-  
   <tr>
 
 <td align = "center">
@@ -261,7 +370,7 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
       
       
  </td>
-<td align = "center">
+  <td align = "center">
       
       
       
@@ -269,101 +378,29 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
       
       
  </td>
- <td align = "center">
-      
-      
-      
-**unreleased**
-      
-      
- </td>
-</tr>
-<tr>  
- <th><a href = "https://github.com/ChifiSource/OlivePy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivepy.png"></a></th>
-   <th><a href = "https://github.com/ChifiSource/OliveManager.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemanager.png" ></a></th>
-   <th><a href = "https://github.com/ChifiSource/OliveWorkspaces.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveworkspaces.png" ></a></th>
-   <th><a href = "https://github.com/ChifiSource/FlexCells.jl"><img width = 80 src="https://github.com/ChifiSource/image_dump/blob/main/olive/flexcells.png" ></a></th>
-  </tr>
-    <tr>
-
-<td align = "center">
-      
-      
-      
-**unreleased**
-      
-      
- </td>
- <td align = "center">
-      
-      
-      
-**unreleased**
-      
-      
- </td>
-<td align = "center">
-      
-      
-      
-**unreleased**
-      
-      
- </td>
- <td align = "center">
-      
-      
-      
-**unreleased**
-      
-      
- </td>
- 
 </tr>
 </table>
-
-
-<table>
-<tr>  
- <th><a href = "https://github.com/ChifiSource/OliveR.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveR.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/Bouquet.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/bouquet.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/OliveForms.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveforms.png"></a></th>
-</tr>
-<tr><td align="center">
-
-**unreleased**
-
-
-</td>
-<td align="center">
-
-**unreleased**
-
-
-</td>   
-<td align="center">
-
-**unreleased**
-
-
-</td>   
-</tr>
-</table>
+      
 
 ## gattino
 
 <div align = "center">
 <th><a href = "https://github.com/ChifiSource/Gattino.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino.png"></a></th>
+    
+**unreleased**
+    
 </div>
 
-###### soon to come: gattino
-Gattino is Toolips-based plotting for Julia. This project's base package is still in early development, but gattino plans to feature
-- An extension **ecosystem**.
-- Introspectable, mutable **high-level plotting**.
-- **Animated** visualizations.
-- **Interactive** visualizations.
-- In-ecosystem **dashboard toolkits**.
-- Clorepleths.
+###### elegant visualizations for julia
+Gattino is Toolips-based, extensible plotting for Julia. This project's base package is still in early development, but gattino plans to feature
+- an extension **ecosystem**
+- **modular** plot components
+- introspectable plots
+- **animated** visualizations.
+- toolips **components**
+- powerful **layout** syntax
+
+###### gattino extensions
 
 <table>
 <tr>  
