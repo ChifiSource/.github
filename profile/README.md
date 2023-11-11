@@ -258,6 +258,7 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
     <tr>
                <th><a href = "https://github.com/ChifiSource/FlexCells.jl"><img width = 80 src="https://github.com/ChifiSource/image_dump/blob/main/olive/flexcells.png" ></a></th>
     <th><a href = "https://github.com/ChifiSource/OliveForms.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveforms.png"></a></th>
+        <th><a href = "https://github.com/ChifiSource/OliveCells.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecommoncells.png"></a></th>
     </tr>
     <tr>
          <td align = "center">
@@ -269,6 +270,14 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
       
  </td>
   <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+   <td align = "center">
       
       
       
@@ -323,6 +332,28 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
       
  </td>
  </tr>
+ <tr>  
+ <th><a href = "https://github.com/ChifiSource/OliveClang.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveclang.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/OliveLispSyntax.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivelispsyntax.png"></a></th>
+  </tr>
+  <tr>
+        <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+   <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
+  </tr>
  </table>
  
 ###### project editors
@@ -351,6 +382,7 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 <tr>  
  <th><a href = "https://github.com/ChifiSource/OliveSession.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivesession.png"></a></th>
     <th><a href = "https://github.com/ChifiSource/OliveManager.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemanager.png" ></a></th>
+       <th><a href = "https://github.com/ChifiSource/OliveUsers.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveusers.png" ></a></th>
   </tr>
   <tr>
 
