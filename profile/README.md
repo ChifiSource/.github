@@ -199,8 +199,11 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
   </br>
   <a href = https://github.com/ChifiSource/Olive.jl>
   <img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemain.png">
+  <br>
   
-  **not yet released**
+[![version](https://juliahub.com/docs/General/Olive/stable/version.svg)](https://juliahub.com/ui/Packages/General/Olive)
+
+**(pre-release I)**
 
 </div>
 
