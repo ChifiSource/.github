@@ -233,8 +233,9 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 
 <table>
 <tr>  
-   <th><a href = "https://github.com/ChifiSource/OliveDefaults.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olive2defaults.png" ></a></th>
+   <th><a href = "https://github.com/ChifiSource/OliveDocBrowser.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivedocbrowser.png" ></a></th>
      <th><a href = "https://github.com/ChifiSource/OliveWorkspaces.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveworkspaces.png" ></a></th>
+    <th><a href = "https://github.com/ChifiSource/OliveManager.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemanager.png" ></a></th>
 </tr>
     <tr>
  <td align = "center">
@@ -253,6 +254,14 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
       
       
  </td>
+  <td align = "center">
+      
+      
+      
+**unreleased**
+      
+      
+ </td>
     </tr>
 </table>
 
@@ -261,7 +270,7 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
     <tr>
                <th><a href = "https://github.com/ChifiSource/FlexCells.jl"><img width = 80 src="https://github.com/ChifiSource/image_dump/blob/main/olive/flexcells.png" ></a></th>
     <th><a href = "https://github.com/ChifiSource/OliveForms.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveforms.png"></a></th>
-        <th><a href = "https://github.com/ChifiSource/OliveCells.jl"><img width = 110 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecommoncells.png"></a></th>
+        <th><a href = "https://github.com/ChifiSource/OliveDocBrowser.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveautocomplete.png" ></a></th>
     </tr>
     <tr>
          <td align = "center">
@@ -383,8 +392,8 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 
 <table>
 <tr>  
- <th><a href = "https://github.com/ChifiSource/OliveSession.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivesession.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/OliveManager.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemanager.png" ></a></th>
+ <th><a href = "https://github.com/ChifiSource/OliveCollaborate.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecollaborate.png"></a></th>
+     <th><a href = "https://github.com/ChifiSource/OlivePermissions.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivepermissions.png"></a></th>
        <th><a href = "https://github.com/ChifiSource/OliveUsers.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/oliveusers.png" ></a></th>
   </tr>
   <tr>
