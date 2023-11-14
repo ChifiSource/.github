@@ -17,6 +17,10 @@
 - [**olive**](#olive) - Extensible notebook/IDE for julia. **GETTING THERE**
     - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
     - [extensions](https://github.com/ChifiSource#olive-extensions)
+      - [cells](#cells)
+      - [languages and formats](#languages-and-formats)
+      - [project editors](#project-editors)
+      - [servers](#servers)
 - [**gattino**](#gattino) - Dashboards and plots for Julia. **WIP**
     - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
     - [extensions](#gattino-extensions)
@@ -228,8 +232,6 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 - **flexible** and modern design
 - the ability to edit **any** file
 ##### olive extensions
-
-###### session
 
 <table>
 <tr>  
