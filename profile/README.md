@@ -25,6 +25,7 @@
     - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
     - [extensions](#gattino-extensions)
 - [**algia**](#algia)
+- [**tumble**](#tumble)
 - [**stuff**](#stuff) - Random ecosystem packages.
 ## websites
 ###### olive creator
@@ -481,9 +482,9 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
 <th><a href = "https://github.com/ChifiSource/Algia.jl" width = 50><img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/algia/Algia.png"></a></th>
 </div>
 
-## lathe
+## tumble
 <div align="center">
- <a href = "https://github.com/ChifiSource/Lathe.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/lathe.png" ></a></th>
+ <a href = "https://github.com/ChifiSource/Tumble.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/tumble/tumblemain.png" ></a></th>
  </div>
 
  **not released**
