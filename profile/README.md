@@ -479,8 +479,25 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
 
 ## algia
 <div align = "center">
-<th><a href = "https://github.com/ChifiSource/Algia.jl" width = 50><img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/algia/Algia.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/Algia.jl" width = 50><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/algia/algia.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/AlgebraFrames.jl" width = 50><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/algia/algebraframes.png"></a></th>
 </div>
+
+## algia extensions
+
+<table>
+    <tr>
+    <th><a href = "https://github.com/ChifiSource/AlgebraStreams.jl.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/algia/algebrastreams.png" ></a></th>
+    </tr>
+    <tr>
+<td align = "center">
+
+**not released**
+
+</td>
+</tr>
+</table>
+
 
 ## tumble
 <div align="center">
