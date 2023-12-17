@@ -208,7 +208,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
   
 [![version](https://juliahub.com/docs/General/Olive/stable/version.svg)](https://juliahub.com/ui/Packages/General/Olive)
 
-**(pre-release I)**
+**(pre-release II)**
 
 </div>
 
