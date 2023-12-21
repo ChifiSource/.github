@@ -213,7 +213,6 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 </div>
 
 ###### pure julia notebooks!
-Olive is a pure julia notebook editor built on the back of multiple dispatch. Through multiple dispatch, olive is able to change functionality entirely by simply having new methods. Using extensions, olive can edit any file. Among other things, olive features ...
 Welcome to olive! Olive is a **pure julia** notebook editor built on the back of multiple dispatch. Through multiple dispatch, olive is able to change functionality entirely by simply having new methods. Using extensions, olive can edit **any** file. Among other things, olive features ...
 - regular **julia modules**
 - unparalleled **extensibility**
