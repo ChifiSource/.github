@@ -3,15 +3,16 @@
 
 **unreleased**
 
-<h5><a href="https://github.com/ChifiSource//">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev">blog</a> </h5>
+<h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev">blog</a> </h5>
 </div>
 
 
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
-- [**websites**](#websites)
-    - [ChiNS](#chins)
+- [**web**](#web)
+    - [chifi.c](#chifi.c)
     - [olive.creator](#olive-creator)
+    - [ChiNS](#chins)
 - [**toolips**](#toolips) - Extensible web-development.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [extensions](https://github.com/ChifiSource#toolips-extensions)
@@ -29,6 +30,19 @@
 - [**tumble**](#tumble)
 - [**stuff**](#stuff) - Random ecosystem packages.
 ## websites
+###### chifi.c
+<div align="center">
+  </br>
+   </a>
+     </br>
+    <a href = https://chifi.c/>
+  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/chifi.svg">
+  </a>
+    
+**unreleased** [source](https://github.com/ChifiSource/ChifiSource.jl)
+
+</div>
+
 ###### olive creator
 <div align="center">
   </br>
@@ -46,9 +60,7 @@
   </br>
    </a>
      </br>
-    <a href = https://olive.creator/>
   <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
-  </a>
     
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
 </div>
