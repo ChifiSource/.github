@@ -10,7 +10,8 @@
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
 - [**websites**](#websites)
--   - [olive.creator](#olive-creator)
+    - [ChiNS](#chins)
+    - [olive.creator](#olive-creator)
 - [**toolips**](#toolips) - Extensible web-development.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [extensions](https://github.com/ChifiSource#toolips-extensions)
@@ -34,9 +35,21 @@
    </a>
      </br>
     <a href = https://olive.creator/>
-  <img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
+  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
   </a>
-  
+    
+**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
+</div>
+
+###### chiNS
+<div align="center">
+  </br>
+   </a>
+     </br>
+    <a href = https://olive.creator/>
+  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
+  </a>
+    
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
 </div>
 
@@ -174,7 +187,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 <tr>
 <td align = "center">
       
-**unreleased**
+[![version](https://juliahub.com/docs/General/ToolipsUDP/stable/version.svg)](https://juliahub.com/ui/Packages/General/ToolipsUDP)
 
 
 </td>
