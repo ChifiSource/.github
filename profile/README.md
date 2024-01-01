@@ -1,5 +1,5 @@
 <div align = "center">
-<a href="https://github.com/ChifiSource/ChifiSource.jl"><img src = "https://github.com/ChifiSource/image_dump/blob/main/chifi.svg" width = 150></a>
+<a href="https://github.com/ChifiSource/ChifiSource.jl"><img src = "https://github.com/ChifiSource/image_dump/blob/main/chifi2024.png" width="250"></a>
 
 **unreleased**
 
