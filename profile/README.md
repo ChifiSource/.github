@@ -506,6 +506,17 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
 
 </td>   
     </tr>
+    <tr>  
+     <th><a href = "https://github.com/ChifiSource/GattinoSpace.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinospace.png"></a></th>
+</tr>
+<tr>
+            <td align="center">
+
+**unreleased**
+
+
+</td>   
+</tr>
 </table>
 
 ## algia
