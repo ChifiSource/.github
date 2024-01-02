@@ -9,10 +9,12 @@
 
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
-- [**websites**](#websites)
+- [**web**](#web)
     - [web base](#web-base)
-    - [chifi.c](#chifi.c)
-    - [olive.creator](#olive-creator)
+      - [chiNS](#chiNS)
+    - [websites](#websites)
+      - [laboratory](#laboratory)
+      - [olive creator](#olive-creator)
 - [**julia packages**](#julia-packages)
     - [**toolips**](#toolips) - Extensible web-development.
         - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
@@ -30,8 +32,8 @@
     - [**algia**](#algia)
     - [**tumble**](#tumble)
     - [**other stuff**](#stuff) - Random ecosystem packages.
-## websites
-###### web base
+## web
+#### web base
 ###### chiNS
 <div align="center">
   </br>
@@ -42,13 +44,14 @@
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
 </div>
 
-###### chifi.c
+#### websites
+###### laboratory
 <div align="center">
   </br>
    </a>
      </br>
-    <a href = https://chifi.c/>
-  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/chifi2024.png">
+    <a href = "https://github.com/ChifiSource/ChifiLaboratory.jl">
+  <img width = 350 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/chifilab.png">
   </a>
     
 **unreleased** [source](https://github.com/ChifiSource/ChifiSource.jl)
