@@ -9,34 +9,46 @@
 
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
-- [**web**](#web)
+- [**websites**](#websites)
+    - [web base](#web-base)
     - [chifi.c](#chifi.c)
     - [olive.creator](#olive-creator)
-    - [ChiNS](#chins)
-- [**toolips**](#toolips) - Extensible web-development.
-    - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
-    - [extensions](https://github.com/ChifiSource#toolips-extensions)
-- [**olive**](#olive) - Extensible notebook/IDE for julia. **GETTING THERE**
-    - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
-    - [extensions](https://github.com/ChifiSource#olive-extensions)
-      - [cells](#cells)
-      - [languages and formats](#languages-and-formats)
-      - [project editors](#project-editors)
-      - [servers](#servers)
-- [**gattino**](#gattino) - Dashboards and plots for Julia. **WIP**
-    - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
-    - [extensions](#gattino-extensions)
-- [**algia**](#algia)
-- [**tumble**](#tumble)
-- [**stuff**](#stuff) - Random ecosystem packages.
+- [**julia packages**](#julia-packages)
+    - [**toolips**](#toolips) - Extensible web-development.
+        - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
+        - [extensions](https://github.com/ChifiSource#toolips-extensions)
+    - [**olive**](#olive) - Extensible notebook/IDE for julia.
+        - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
+        - [extensions](https://github.com/ChifiSource#olive-extensions)
+          - [cells](#cells)
+          - [languages and formats](#languages-and-formats)
+          - [project editors](#project-editors)
+          - [servers](#servers)
+    - [**gattino**](#gattino) - Dashboards and plots for Julia.
+        - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
+        - [extensions](#gattino-extensions)
+    - [**algia**](#algia)
+    - [**tumble**](#tumble)
+    - [**other stuff**](#stuff) - Random ecosystem packages.
 ## websites
+###### web base
+###### chiNS
+<div align="center">
+  </br>
+   </a>
+     </br>
+  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
+    
+**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
+</div>
+
 ###### chifi.c
 <div align="center">
   </br>
    </a>
      </br>
     <a href = https://chifi.c/>
-  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/chifi.svg">
+  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/chifi2024.png">
   </a>
     
 **unreleased** [source](https://github.com/ChifiSource/ChifiSource.jl)
@@ -51,16 +63,6 @@
     <a href = https://olive.creator/>
   <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
   </a>
-    
-**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
-</div>
-
-###### chiNS
-<div align="center">
-  </br>
-   </a>
-     </br>
-  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
     
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
 </div>
