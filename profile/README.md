@@ -79,9 +79,20 @@
 The toolips ecosystem is all about bringing ease of use and declarative Julia syntax to the world of web-development. The ecosystem revolves around the *Toolips.jl* module, which defines the base types and infastructure for the toolips way of programming. Subsequent packages build on this, and different portions of the ecosystem can be selected incredibly easily and used individually at whim. This makes the framework useful in a much larger variety of applications; from minimalist web-development to enormous one-page apps. Toolips was originally conceived to build *Olive.jl*, and more than provides on the tools to do so.
 
 
-  ##### toolips extensions
-  
-  <table>
+###### new! toolips 0.3
+A new, breaking version of `Toolips` is coming. This *significant* breaks up the base, removes a lot of reduncancy, enhances components, reduces overhead, and deprecates `ToolipsServers` in favor of using Julia modules as server structures. This will be a new and exciting version of `Toolips` which does not break core syntax or functionality, but will break **all** extensions. Here is a preview of the packages which comprise `0.3`:
+
+<table align="center">
+        <tr>
+    <th><a href = "https://github.com/ChifiSource/ToolipsServables.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsservables.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/ToolipsWebMeasures.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipswebmeasures.png"></a></th>
+          <th><a href = "https://github.com/ChifiSource/Toolips.jl/tree/0.3" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips03.png"></a></th>
+        </tr>
+</table>
+
+##### toolips extensions
+
+<table>
         <tr>
     <th><a href = "https://github.com/ChifiSource/ToolipsSession.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></a></th>
     <th><a href = "https://github.com/ChifiSource/ToolipsDefaults.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsdefaults.png"></a></th>
