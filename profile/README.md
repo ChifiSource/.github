@@ -52,15 +52,19 @@
 </div>
 
 ###### lab modules
-<div align="center">
-  </br>
-   </a>
-     </br>
-    <a href = https://olive.creator/>
+<table>
+  <tr><th>
+    <a href = https://github.com/ChifiSource/OliveCreator.jl>
   <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
   </a>
-    
-**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
+    </th>
+    <th>
+    <a href = https://github.com/ChifiSource/ChifiDocumentation.jl>
+  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/modules/documentation.png?raw=true">
+  </a>
+    </th>
+  </tr>
+</table>
 </div>
 
 ## toolips
