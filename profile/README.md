@@ -9,32 +9,39 @@
 
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
-- [**web**](#web)
-    - [web base](#web-base)
-      - [chiNS](#chiNS)
-    - [websites](#websites)
-      - [laboratory](#laboratory)
-      - [olive creator](#olive-creator)
+
 - [**julia packages**](#julia-packages)
-    - [**toolips**](#toolips) - Extensible web-development.
-        - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
-        - [extensions](https://github.com/ChifiSource#toolips-extensions)
-    - [**olive**](#olive) - Extensible notebook/IDE for julia.
-        - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
-        - [extensions](https://github.com/ChifiSource#olive-extensions)
-          - [cells](#cells)
-          - [languages and formats](#languages-and-formats)
-          - [project editors](#project-editors)
-          - [servers](#servers)
-    - [**gattino**](#gattino) - Dashboards and plots for Julia.
-        - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
-        - [extensions](#gattino-extensions)
-    - [**algia**](#algia)
-    - [**tumble**](#tumble)
-    - [**other stuff**](#stuff) - Random ecosystem packages.
-## web
-#### web base
-###### chiNS
+  - [**laboratory**](#laboratory)
+    - [tools](#tools)
+    - [lab modules](#lab-modules)
+  - [**toolips**](#toolips) - Extensible web-development.
+    - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
+    - [extensions](https://github.com/ChifiSource#toolips-extensions)
+  - [**olive**](#olive) - Extensible notebook/IDE for julia.
+    - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
+    - [extensions](https://github.com/ChifiSource#olive-extensions)
+      - [cells](#cells)
+      - [languages and formats](#languages-and-formats)
+      - [project editors](#project-editors)
+      - [servers](#servers)
+  - [**gattino**](#gattino) - Dashboards and plots for Julia.
+    - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
+    - [extensions](#gattino-extensions)
+  - [**algia**](#algia)
+  - [**tumble**](#tumble)
+  - [**other stuff**](#stuff) - Random ecosystem packages.
+# julia packages
+## laboratory
+<div align="center">
+  </br>
+   </a>
+     </br>
+    <a href = "https://github.com/ChifiSource/ChifiLaboratory.jl">
+  <img width = 350 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/chifilab.png">
+  </a>
+</div>
+    
+###### tools
 <div align="center">
   </br>
    </a>
@@ -44,21 +51,7 @@
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
 </div>
 
-#### websites
-###### laboratory
-<div align="center">
-  </br>
-   </a>
-     </br>
-    <a href = "https://github.com/ChifiSource/ChifiLaboratory.jl">
-  <img width = 350 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/chifilab.png">
-  </a>
-    
-**unreleased** [source](https://github.com/ChifiSource/ChifiSource.jl)
-
-</div>
-
-###### olive creator
+###### lab modules
 <div align="center">
   </br>
    </a>
