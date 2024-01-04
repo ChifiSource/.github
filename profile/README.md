@@ -84,7 +84,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
 
 
 ###### new! toolips 0.3
-A new, breaking version of `Toolips` is coming. This *significant* breaks up the base, removes a lot of reduncancy, enhances components, reduces overhead, and deprecates `ToolipsServers` in favor of using Julia modules as server structures. This will be a new and exciting version of `Toolips` which does not break core syntax or functionality, but will break **all** extensions. Here is a preview of the packages which comprise `0.3`:
+A new, breaking version of `Toolips` is coming. This *significant* update breaks up the base, removes a lot of reduncancy, enhances components, reduces overhead, and deprecates `ToolipsServers` in favor of using Julia modules as server structures. This will be a new and exciting version of `Toolips` which does not break core syntax or functionality, but will break **all** extensions. Here is a preview of the packages which comprise `0.3`:
 
 <table align="center">
         <tr>
