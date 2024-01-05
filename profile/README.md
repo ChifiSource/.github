@@ -46,7 +46,9 @@
   </br>
    </a>
      </br>
-  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
+  <img width = 100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
+    <img width=150 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiProxy.png">
+    <img width=100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiDB.png">
     
 **unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
 </div>
