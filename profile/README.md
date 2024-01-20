@@ -588,6 +588,16 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
       
  </td>
  </tr>
+ <tr>
+   <th><a href = "https://github.com/ChifiSource/ParametricProcesses.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parproc.png"></a></th>
+ </tr>
+ <tr>
+           <td align = "center">
+      
+[![version](https://juliahub.com/docs/IPyCells/version.svg)](https://juliahub.com/ui/Packages/IPyCells/RqXbK)
+      
+ </td>
+ </tr>
 
 </table>
 
