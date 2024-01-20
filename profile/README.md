@@ -91,7 +91,6 @@ A new, breaking version of `Toolips` is coming. This *significant* update breaks
 <table align="center">
         <tr>
     <th><a href = "https://github.com/ChifiSource/ToolipsServables.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsservables.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/ToolipsWebMeasures.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipswebmeasures.png"></a></th>
           <th><a href = "https://github.com/ChifiSource/Toolips.jl/tree/0.3" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips03.png"></a></th>
         </tr>
 </table>
