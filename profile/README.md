@@ -11,12 +11,15 @@
 ## map
 
 - [**julia packages**](#julia-packages)
+  - [****]
+  - [**parametric processes**](#parametric-processes)
   - [**laboratory**](#laboratory)
     - [tools](#tools)
     - [lab modules](#lab-modules)
   - [**toolips**](#toolips) - Extensible web-development.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [extensions](https://github.com/ChifiSource#toolips-extensions)
+    - [toolips 0.3](https://github.com/ChifiSource#toolips-0.3)
   - [**olive**](#olive) - Extensible notebook/IDE for julia.
     - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
     - [extensions](https://github.com/ChifiSource#olive-extensions)
@@ -31,6 +34,24 @@
   - [**tumble**](#tumble)
   - [**other stuff**](#stuff) - Random ecosystem packages.
 # julia packages
+## parametric processes
+`ParametricProcesses` offers high-level `Worker` management for Julia for parallel computing.
+
+<div align="center">
+<table>
+ <tr>
+   <th><a href = "https://github.com/ChifiSource/ParametricProcesses.jl" width = 50><img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parproc.png"></a></th>
+ </tr>
+  <tr>
+    <td align="center">
+      
+  [![version](https://juliahub.com/docs/General/ParametricProcesses/stable/version.svg)](https://juliahub.com/ui/Packages/General/ParametricProcesses)
+  
+  </td>
+  </tr>
+</table>
+</div>
+
 ## laboratory
 <div align="center">
   </br>
@@ -249,6 +270,20 @@ A new, breaking version of `Toolips` is coming. This *significant* update breaks
 
 **(pre-release II)**
 
+<table>
+  <tr>
+  <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
+  </tr>
+  <tr>
+
+  <td align="center">
+    
+  [![version](https://juliahub.com/docs/General/IPyCells/stable/version.svg)](https://juliahub.com/ui/Packages/General/IPyCells)
+  
+  </td>
+    
+  </tr>
+</table>
 </div>
 
 ###### pure julia notebooks!
@@ -566,7 +601,6 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
     <tr>
     <th><a href = "https://github.com/ChifiSource/ParseNotEval.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></a></th>
 <th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
-<th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
     </tr>
     <tr>
         <td align = "center">
@@ -588,9 +622,7 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
       
  </td>
  </tr>
- <tr>
-   <th><a href = "https://github.com/ChifiSource/ParametricProcesses.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parproc.png"></a></th>
- </tr>
+
  <tr>
            <td align = "center">
       
@@ -604,22 +636,8 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
 <table>
 <tr>
 <th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/Contexts.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/contexts/Contexts.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/Documator.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/documentor/logo.png"></a></th>
 </tr>
 <tr>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
 <td align = "center">
       
 **unreleased**
