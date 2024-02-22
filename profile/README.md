@@ -9,9 +9,11 @@
 
 ###### [skip readme](https://github.com/ChifiSource#thanks)
 ## map
-
+- [**web**](#web)
+  - [**websites**](#websites)
+    - [laboratory](#laboratory)
+  - [**servers** and **system tools**](#tools)
 - [**julia packages**](#julia-packages)
-  - [****]
   - [**parametric processes**](#parametric-processes)
   - [**laboratory**](#laboratory)
     - [tools](#tools)
@@ -33,6 +35,48 @@
   - [**algia**](#algia)
   - [**tumble**](#tumble)
   - [**other stuff**](#stuff) - Random ecosystem packages.
+# web
+
+## websites
+#### laboratory
+<div align="center">
+  </br>
+   </a>
+     </br>
+    <a href = "https://github.com/ChifiSource/ChifiLaboratory.jl">
+  <img width = 350 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/chifilab.png">
+  </a>
+</div>
+    
+
+    
+**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
+</div>
+
+<table>
+  <tr><th>
+    <a href = https://github.com/ChifiSource/OliveCreator.jl>
+  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
+  </a>
+    </th>
+    <th>
+    <a href = https://github.com/ChifiSource/ChifiDocumentation.jl>
+  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/modules/documentation.png?raw=true">
+  </a>
+    </th>
+  </tr>
+</table>
+</div>
+## tools
+
+<div align="center">
+  </br>
+   </a>
+     </br>
+  <img width = 100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
+    <img width=150 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiProxy.png">
+    <img width=100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiDB.png">
+
 # julia packages
 ## parametric processes
 `ParametricProcesses` offers high-level `Worker` management for Julia for parallel computing.
@@ -48,44 +92,6 @@
   [![version](https://juliahub.com/docs/General/ParametricProcesses/stable/version.svg)](https://juliahub.com/ui/Packages/General/ParametricProcesses)
   
   </td>
-  </tr>
-</table>
-</div>
-
-## laboratory
-<div align="center">
-  </br>
-   </a>
-     </br>
-    <a href = "https://github.com/ChifiSource/ChifiLaboratory.jl">
-  <img width = 350 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/chifilab.png">
-  </a>
-</div>
-    
-###### tools
-<div align="center">
-  </br>
-   </a>
-     </br>
-  <img width = 100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
-    <img width=150 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiProxy.png">
-    <img width=100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiDB.png">
-    
-**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
-</div>
-
-###### lab modules
-<table>
-  <tr><th>
-    <a href = https://github.com/ChifiSource/OliveCreator.jl>
-  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
-  </a>
-    </th>
-    <th>
-    <a href = https://github.com/ChifiSource/ChifiDocumentation.jl>
-  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/modules/documentation.png?raw=true">
-  </a>
-    </th>
   </tr>
 </table>
 </div>
