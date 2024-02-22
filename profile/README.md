@@ -601,6 +601,7 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
     <tr>
     <th><a href = "https://github.com/ChifiSource/ParseNotEval.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></a></th>
 <th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
+      <th><a href = "https://github.com/ChifiSource/RollingArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/rollingarrays/rollingarrays.png" ></a></th>
     </tr>
     <tr>
         <td align = "center">
