@@ -12,7 +12,7 @@
 - [**web**](#web)
   - [**websites**](#websites)
     - [laboratory](#laboratory)
-    - [**servers** and **system tools**](#tools)
+    - [servers](#servers)
 - [**julia packages**](#julia-packages)
   - [**parametric processes**](#parametric-processes)
     - [info](#parametric-processes)
@@ -33,10 +33,12 @@
   - [**algia**](#algia)
   - [**tumble**](#tumble)
   - [**other stuff**](#stuff) - Random ecosystem packages.
-# web
+#### web
 
-## websites
-#### laboratory
+#### websites
+###### laboratory
+Laboratory is an all-in-one place to manage repositories, projects, their development and their deployment. This is the precursor to `OliveCreator`, which is going to use `Laboratory` for project and file management for clients. In essence, the goal is to have a one-stop-shop to develop, maintain, work with and even deploy projects.
+
 <div align="center">
   </br>
    </a>
@@ -65,7 +67,9 @@
   </tr>
 </table>
 </div>
-## tools
+
+###### servers
+There are several different steps to web-infastructure, from the TLD server that sends a packet to your DHCP server all the way to the `Toolips` `WebServer` and accompanying Proxy servers. Some of these have already been created for `chifi` projects, so here they are.
 
 <div align="center">
   </br>
