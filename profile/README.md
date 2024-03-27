@@ -12,16 +12,14 @@
 - [**web**](#web)
   - [**websites**](#websites)
     - [laboratory](#laboratory)
-  - [**servers** and **system tools**](#tools)
+    - [**servers** and **system tools**](#tools)
 - [**julia packages**](#julia-packages)
   - [**parametric processes**](#parametric-processes)
-  - [**laboratory**](#laboratory)
-    - [tools](#tools)
-    - [lab modules](#lab-modules)
+    - [info](#parametric-processes)
   - [**toolips**](#toolips) - Extensible web-development.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
-    - [extensions](https://github.com/ChifiSource#toolips-extensions)
     - [toolips 0.3](https://github.com/ChifiSource#toolips-0.3)
+    - [toolips 0.2](https://github.com/ChifiSource#toolips-0.2)
   - [**olive**](#olive) - Extensible notebook/IDE for julia.
     - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
     - [extensions](https://github.com/ChifiSource#olive-extensions)
@@ -76,10 +74,12 @@
   <img width = 100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
     <img width=150 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiProxy.png">
     <img width=100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiDB.png">
+</div>
 
 # julia packages
-## parametric processes
-`ParametricProcesses` offers high-level `Worker` management for Julia for parallel computing.
+Over the years, we have been working to build a *pretty radical* Julia package ecosystem. This ecosystem is meant to facilitate data-driven fullstack web-development and Data Science (*combined into one*) with julia.
+##### parametric processes
+`ParametricProcesses` offers high-level `Worker` management for Julia for parallel computing. This package is primarily intended to be used with multi-threading, but the workers that manage the processes are parametric and their functionality can be changed to fit many different contexts. The main objective of this project is to facilitate multi-threaded process management for the `Toolips` web-development framework.
 
 <div align="center">
 <table>
@@ -100,20 +100,18 @@
 
 <div align="center" style = "box-pack: start;">
   </br>
-  <a href = https://github.com/ChifiSource/Toolips.jl>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg">
-  
-  [![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
-  
-**unreleased** [source](https://github.com/ChifiSource/ToolipsApp.jl)
+  <a href = https://github.com/ChifiSource/Toolips.jl></a>
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg"></img>
+  </div>
 <div align = "left">
 
 #### a manic web-development framework
 The toolips ecosystem is all about bringing ease of use and declarative Julia syntax to the world of web-development. The ecosystem revolves around the *Toolips.jl* module, which defines the base types and infastructure for the toolips way of programming. Subsequent packages build on this, and different portions of the ecosystem can be selected incredibly easily and used individually at whim. This makes the framework useful in a much larger variety of applications; from minimalist web-development to enormous one-page apps. Toolips was originally conceived to build *Olive.jl*, and more than provides on the tools to do so.
 
+- `Toolips` is currently undergoing a breaking ecosystem version step from version `0.2` to version `0.3`. This includes the release of a new `Toolips` `0.3` ecosystem, 
 
-###### new! toolips 0.3
-A new, breaking version of `Toolips` is coming. This *significant* update breaks up the base, removes a lot of reduncancy, enhances components, reduces overhead, and deprecates `ToolipsServers` in favor of using Julia modules as server structures. This will be a new and exciting version of `Toolips` which does not break core syntax or functionality, but will break **all** extensions. Here is a preview of the packages which comprise `0.3`:
+###### toolips 0.3 
+A new, breaking version of `Toolips` is coming. This *significant* update breaks up the base, removes a lot of reduncancy, adds parallel computing, enhances components and extensbility, reduces overhead, and deprecates `ToolipsServers` in favor of using Julia modules as server structures. With this, there is also a pretty significant rebuild and redistribution of the ecosystem happening... It might take a bit for `0.3` to have all the packages to facilitate `Toolips` `0.2` functionalities. 
 
 <table align="center">
         <tr>
@@ -122,9 +120,35 @@ A new, breaking version of `Toolips` is coming. This *significant* update breaks
         </tr>
 </table>
 
+
+<table align="center">
+        <tr>
+    <th><a href = "https://github.com/ChifiSource/ToolipsSession.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/ToolipsRemote.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsremote.png"></a></th>
+          <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/ToolipsORM.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsORM.png"></a></th>
+  </tr>
+  <tr>
+    
+  </tr>
+          <tr>
+    <th><a href = "https://github.com/ChifiSource/ToolipsManager.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmanager.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/ToolipsUploader.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></a></th>
+          <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipscrawl.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsSVG.png"></a></th>
+  </tr>
+</table>
+
+###### toolips 0.2.x (current stable)
+<div align="center">
+  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg">
+  
+  [![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
+</div>
+
 ##### toolips extensions
 
-<table>
+<table align="center">
         <tr>
     <th><a href = "https://github.com/ChifiSource/ToolipsSession.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></a></th>
     <th><a href = "https://github.com/ChifiSource/ToolipsDefaults.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsdefaults.png"></a></th>
