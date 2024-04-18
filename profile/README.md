@@ -11,12 +11,11 @@
 ## map
 - [**web**](#web)
   - [**websites**](#websites)
-    - [laboratory](#laboratory)
-    - [servers](#servers)
+  - [**servers**](#servers)
 - [**julia packages**](#julia-packages)
-  - [**parametric processes**](#parametric-processes)
+  - [**parametric processes**](#parametric-processes) - High-level parallel process manager.
     - [info](#parametric-processes)
-  - [**toolips**](#toolips) - Extensible web-development.
+  - [**toolips**](#toolips) - Server/web-development framework.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [toolips 0.3](https://github.com/ChifiSource#toolips-0.3)
     - [toolips 0.2](https://github.com/ChifiSource#toolips-0.2)
@@ -30,44 +29,13 @@
   - [**gattino**](#gattino) - Dashboards and plots for Julia.
     - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
     - [extensions](#gattino-extensions)
-  - [**algia**](#algia)
-  - [**tumble**](#tumble)
+  - [**algebra frames**](#algebra-frames) - Out-of-memory data for Julia.
+  - [**tumble**](#tumble) - `AlgebraFrames`-based machine-learning.
   - [**other stuff**](#stuff) - Random ecosystem packages.
 #### web
 
 #### websites
-###### laboratory
-Laboratory is an all-in-one place to manage repositories, projects, their development and their deployment. This is the precursor to `OliveCreator`, which is going to use `Laboratory` for project and file management for clients. In essence, the goal is to have a one-stop-shop to develop, maintain, work with and even deploy projects.
-
-<div align="center">
-  </br>
-   </a>
-     </br>
-    <a href = "https://github.com/ChifiSource/ChifiLaboratory.jl">
-  <img width = 350 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/chifilab.png">
-  </a>
-</div>
-    
-
-    
-**unreleased** [source](https://github.com/ChifiSource/OliveCreator.jl)
-</div>
-
-<table>
-  <tr><th>
-    <a href = https://github.com/ChifiSource/OliveCreator.jl>
-  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivecreator.png">
-  </a>
-    </th>
-    <th>
-    <a href = https://github.com/ChifiSource/ChifiDocumentation.jl>
-  <img width = 100 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/modules/documentation.png?raw=true">
-  </a>
-    </th>
-  </tr>
-</table>
-</div>
-
+*nothing here **yet*** ... Things are coming soon!  
 ###### servers
 There are several different steps to web-infastructure, from the TLD server that sends a packet to your DHCP server all the way to the `Toolips` `WebServer` and accompanying Proxy servers. Some of these have already been created for `chifi` projects, so here they are.
 
@@ -144,6 +112,19 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
   </tr>
 </table>
 
+<table>
+<tr>
+<th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
+</tr>
+<tr>
+<td align = "center">
+      
+**unreleased**
+
+
+</td>
+</tr>
+</table>
 
 ## olive
 <div align="center" style = "box-pack: start;">
@@ -454,27 +435,7 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
 </tr>
 </table>
 
-## algia
-<div align = "center">
-<th><a href = "https://github.com/ChifiSource/Algia.jl" width = 50><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/algia/algia.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/AlgebraFrames.jl" width = 50><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/algia/algebraframes.png"></a></th>
-</div>
-
-## algia extensions
-
-<table>
-    <tr>
-    <th><a href = "https://github.com/ChifiSource/AlgebraStreams.jl.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/algia/algebrastreams.png" ></a></th>
-    </tr>
-    <tr>
-<td align = "center">
-
-**not released**
-
-</td>
-</tr>
-</table>
-
+## algebra frames
 
 ## tumble
 <div align="center">
@@ -509,30 +470,9 @@ Gattino is Toolips-based, extensible plotting for Julia. This project's base pac
       
  </td>
  </tr>
-
- <tr>
-           <td align = "center">
-      
-[![version](https://juliahub.com/docs/IPyCells/version.svg)](https://juliahub.com/ui/Packages/IPyCells/RqXbK)
-      
- </td>
- </tr>
-
 </table>
 
-<table>
-<tr>
-<th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
-</tr>
-<tr>
-<td align = "center">
-      
-**unreleased**
 
-
-</td>
-</tr>
-</table>
 
 
     
