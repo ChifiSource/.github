@@ -102,28 +102,29 @@ Over the years, we have been working to build a *pretty radical* Julia package e
 
 ## toolips
 
-<div align="center" style = "box-pack: start;">
-  </br>
-  <a href = https://github.com/ChifiSource/Toolips.jl></a>
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg"></img>
-  </div>
-<div align = "left">
+<table align="center">
+        <tr>
+    <th><a href = "https://github.com/ChifiSource/ToolipsServables.jl" width = 100><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsservables.png"></a></th>
+          <th><a href = "https://github.com/ChifiSource/Toolips.jl/tree/0.3" width = 100><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips03.png"></a></th>
+        </tr>
+  <tr>
+  <td align="center">
+    
+  [![version](https://juliahub.com/docs/General/ToolipsServables/stable/version.svg)](https://juliahub.com/ui/Packages/General/ToolipsServables)
+  
+  </td>
+    <td align="center">
+    
+  [![version](https://juliahub.com/docs/General/Toolips/stable/version.svg)](https://juliahub.com/ui/Packages/General/Toolips)
+  
+  </td>
+  </tr>
+</table>
 
 #### a manic web-development framework
 The toolips ecosystem is all about bringing ease of use and declarative Julia syntax to the world of web-development. The ecosystem revolves around the *Toolips.jl* module, which defines the base types and infastructure for the toolips way of programming. Subsequent packages build on this, and different portions of the ecosystem can be selected incredibly easily and used individually at whim. This makes the framework useful in a much larger variety of applications; from minimalist web-development to enormous one-page apps. Toolips was originally conceived to build *Olive.jl*, and more than provides on the tools to do so.
 
-- `Toolips` is currently undergoing a breaking ecosystem version step from version `0.2` to version `0.3`. This includes the release of a new `Toolips` `0.3` ecosystem, 
-
-###### toolips 0.3 
-A new, breaking version of `Toolips` is coming. This *significant* update breaks up the base, removes a lot of reduncancy, adds parallel computing, enhances components and extensbility, reduces overhead, and deprecates `ToolipsServers` in favor of using Julia modules as server structures. With this, there is also a pretty significant rebuild and redistribution of the ecosystem happening... It might take a bit for `0.3` to have all the packages to facilitate `Toolips` `0.2` functionalities. 
-
-<table align="center">
-        <tr>
-    <th><a href = "https://github.com/ChifiSource/ToolipsServables.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsservables.png"></a></th>
-          <th><a href = "https://github.com/ChifiSource/Toolips.jl/tree/0.3" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips03.png"></a></th>
-        </tr>
-</table>
-
+##### toolips extensions
 
 <table align="center">
         <tr>
@@ -143,155 +144,6 @@ A new, breaking version of `Toolips` is coming. This *significant* update breaks
   </tr>
 </table>
 
-###### toolips 0.2.x (current stable)
-<div align="center">
-  <img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips.svg">
-  
-  [![version](https://juliahub.com/docs/Toolips/version.svg)](https://juliahub.com/ui/Packages/Toolips/TrAr4)
-</div>
-
-##### toolips extensions
-
-<table align="center">
-        <tr>
-    <th><a href = "https://github.com/ChifiSource/ToolipsSession.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipssession.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/ToolipsDefaults.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsdefaults.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsMarkdown.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmarkdown.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsBase64.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsbase64.png"></a></th>
-  </tr>
-  <tr>
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsSession/version.svg)](https://juliahub.com/ui/Packages/ToolipsSession/ji8dn)
-
-
-</td>
-    
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsDefaults/version.svg)](https://juliahub.com/ui/Packages/ToolipsDefaults/skvfO)
-
-
-</td>
-    
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsMarkdown/version.svg)](https://juliahub.com/ui/Packages/ToolipsMarkdown/tOv1W)
-
-
-</td>
-
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsBase64/version.svg)](https://juliahub.com/ui/Packages/ToolipsBase64/fFDlQ)
-
-
-</td>
-
-  </tr>
-<tr>
-<th><a href = "https://github.com/ChifiSource/ToolipsMemWrite.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmemwrite.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsExport.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsexport.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsRemote.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsremote.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsUploader.jl" width = 20><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsuploader.png"></a></th>
-    </tr>
-    <tr>
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsMemWrite/version.svg)](https://juliahub.com/ui/Packages/ToolipsMemWrite/4C3HO)
-
-
-</td>
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsExport/version.svg)](https://juliahub.com/ui/Packages/ToolipsExport/16D5e)
-
-
-</td>
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsRemote/version.svg)](https://juliahub.com/ui/Packages/ToolipsRemote/atYct)
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-</tr>
-<tr>
-<th><a href = "https://github.com/ChifiSource/ToolipsManager.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmanager.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsAuth.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsauth.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsSVG.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsInterpolator.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsinterpolator.png"></a></th>
-</tr>
-<tr>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsAuth/version.svg)](https://juliahub.com/ui/Packages/ToolipsAuth/9DKkL)
-
-
-</td>
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsSVG/version.svg)](https://juliahub.com/ui/Packages/ToolipsSVG/mz5Wt)
-
-
-</td>
-
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/ToolipsInterpolator/version.svg)](https://juliahub.com/ui/Packages/ToolipsInterpolator/s1Jlr)
-
-
-</td>
-
-
-</tr>
-<tr>
-<th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsORM.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsORM.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/ToolipsAV.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsAV.png"></a></th>
-</th>
-<th><a href = "https://github.com/ChifiSource/ToolipsCrawl.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipscrawl.png"></a></th>
-</tr>
-
-</tr>
-<tr>
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/General/ToolipsUDP/stable/version.svg)](https://juliahub.com/ui/Packages/General/ToolipsUDP)
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-**unreleased**
-
-
-</td>
-<td align = "center">
-      
-[![version](https://juliahub.com/docs/General/ToolipsCrawl/stable/version.svg)](https://juliahub.com/ui/Packages/General/ToolipsCrawl)
-
-
-</td>
-</tr>
-</table>
 
 ## olive
 <div align="center" style = "box-pack: start;">
