@@ -18,7 +18,7 @@
   - [**toolips**](#toolips) - Server/web-development framework.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [toolips 0.3](https://github.com/ChifiSource#toolips-0.3)
-    - [toolips 0.2](https://github.com/ChifiSource#toolips-0.2)
+    - [extensions](#toolips-extensions)
   - [**olive**](#olive) - Extensible notebook/IDE for julia.
     - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
     - [extensions](https://github.com/ChifiSource#olive-extensions)
@@ -36,8 +36,7 @@
 
 #### websites
 *nothing here **yet*** ... Things are coming soon!  
-###### servers
-There are several different steps to web-infastructure, from the TLD server that sends a packet to your DHCP server all the way to the `Toolips` `WebServer` and accompanying Proxy servers. Some of these have already been created for `chifi` projects, so here they are.
+#### servers
 
 <div align="center">
   </br>
@@ -112,7 +111,7 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
   </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
 <th><a href = "https://github.com/ChifiSource/Vulta.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/raw/main/toolips/vulta/vultaatte.png"></a></th>
 </tr>
