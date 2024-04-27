@@ -89,7 +89,7 @@ Over the years, we have been working to build a *pretty radical* Julia package e
 </table>
 
 #### a manic web-development framework
-The toolips ecosystem is all about bringing ease of use and declarative Julia syntax to the world of web-development. The ecosystem revolves around the *Toolips.jl* module, which defines the base types and infastructure for the toolips way of programming. Subsequent packages build on this, and different portions of the ecosystem can be selected incredibly easily and used individually at whim. This makes the framework useful in a much larger variety of applications; from minimalist web-development to enormous one-page apps. Toolips was originally conceived to build *Olive.jl*, and more than provides on the tools to do so.
+
 
 ##### toolips extensions
 
@@ -109,6 +109,22 @@ The toolips ecosystem is all about bringing ease of use and declarative Julia sy
           <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipscrawl.png"></a></th>
     <th><a href = "https://github.com/ChifiSource/ToolipsSVG.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsSVG.png"></a></th>
   </tr>
+  <tr><td>
+    
+  </td>
+  <td>
+    
+  </td>
+  <td>
+    
+  </td>
+  <td>
+
+  [![version](https://juliahub.com/docs/General/ToolipsSVG/stable/version.svg)](https://juliahub.com/ui/Packages/General/ToolipsSVG)
+    
+  </td>
+  </tr>
+  
 </table>
 
 <table align="center">
