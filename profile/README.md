@@ -13,9 +13,9 @@
   - [**websites**](#websites)
   - [**servers**](#servers)
 - [**julia packages**](#julia-packages)
-  - [**parametric processes**](#parametric-processes) - High-level parallel process manager.
-    - [info](#parametric-processes)
-  - [**toolips**](#toolips) - Server/web-development framework.
+  - [**parametric**](#parametric) - Extensible base ecosystem tools.
+    - [info](#parametric)
+  - [**toolips**](#toolips) - web and server-development framework.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [toolips 0.3](https://github.com/ChifiSource#toolips-0.3)
     - [extensions](#toolips-extensions)
@@ -26,12 +26,12 @@
       - [languages and formats](#languages-and-formats)
       - [project editors](#project-editors)
       - [servers](#servers)
-  - [**gattino**](#gattino) - Dashboards and plots for Julia.
+  - [**gattino**](#gattino) - Composable data visualizations for Julia.
     - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
     - [extensions](#gattino-extensions)
   - [**algebra frames**](#algebra-frames) - Out-of-memory data for Julia.
   - [**tumble**](#tumble) - `AlgebraFrames`-based machine-learning.
-  - [**other stuff**](#stuff) - Random ecosystem packages.
+  - [**other stuff**](#stuff) - Random packages.
 #### web
 
 #### websites
@@ -49,9 +49,7 @@
 
 # julia packages
 Over the years, we have been working to build a *pretty radical* Julia package ecosystem. This ecosystem is meant to facilitate data-driven fullstack web-development and Data Science (*combined into one*) with julia.
-##### parametric processes
-`ParametricProcesses` offers high-level `Worker` management for Julia for parallel computing. This package is primarily intended to be used with multi-threading, but the workers that manage the processes are parametric and their functionality can be changed to fit many different contexts. The main objective of this project is to facilitate multi-threaded process management for the `Toolips` web-development framework.
-
+## parametric
 <div align="center">
 <table>
  <tr>
@@ -66,6 +64,8 @@ Over the years, we have been working to build a *pretty radical* Julia package e
   </tr>
 </table>
 </div>
+
+The *parametric ecosystem* offers a number of packages and system tools for managing routines, tasks, and data -- with each module built with extensibility in mind.
 
 ## toolips
 
