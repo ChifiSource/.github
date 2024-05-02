@@ -100,8 +100,20 @@ The *parametric ecosystem* offers a number of packages and system tools for mana
           <th><a href = "https://github.com/ChifiSource/ToolipsUDP.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsudp.png"></a></th>
     <th><a href = "https://github.com/ChifiSource/ToolipsORM.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsORM.png"></a></th>
   </tr>
-  <tr>
+    <tr><td align="center">
+      
+  [![version](https://juliahub.com/docs/General/ToolipsSession/stable/version.svg)](https://juliahub.com/ui/Packages/General/ToolipsSession)
     
+  </td>
+  <td>
+    
+  </td>
+  <td>
+    
+  </td>
+  <td>
+    
+  </td>
   </tr>
           <tr>
     <th><a href = "https://github.com/ChifiSource/ToolipsManager.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsmanager.png"></a></th>
@@ -118,7 +130,7 @@ The *parametric ecosystem* offers a number of packages and system tools for mana
   <td>
     
   </td>
-  <td>
+  <td align="center">
 
   [![version](https://juliahub.com/docs/General/ToolipsSVG/stable/version.svg)](https://juliahub.com/ui/Packages/General/ToolipsSVG)
     
