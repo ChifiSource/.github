@@ -19,6 +19,9 @@
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
     - [toolips 0.3](https://github.com/ChifiSource#toolips-0.3)
     - [extensions](#toolips-extensions)
+  - [**gattino**](#gattino) - Composable data visualizations for Julia.
+    - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
+    - [extensions](#gattino-extensions)
   - [**olive**](#olive) - Extensible notebook/IDE for julia.
     - [info](https://github.com/ChifiSource#pure-julia-notebooks!)
     - [extensions](https://github.com/ChifiSource#olive-extensions)
@@ -26,9 +29,6 @@
       - [languages and formats](#languages-and-formats)
       - [project editors](#project-editors)
       - [servers](#servers)
-  - [**gattino**](#gattino) - Composable data visualizations for Julia.
-    - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
-    - [extensions](#gattino-extensions)
   - [**algebra frames**](#algebra-frames) - Out-of-memory data for Julia.
   - [**tumble**](#tumble) - `AlgebraFrames`-based machine-learning.
   - [**other stuff**](#stuff) - Random packages.
@@ -89,7 +89,7 @@ The *parametric ecosystem* offers a number of packages and system tools for mana
 </table>
 
 #### a manic web-development framework
-
+`Toolips` is a web-development framework centered around extensibility and multiple dispatch. `Toolips` is an *all-in-one* web-development framework capable of programming low-level servers, APIs, and fullstack web applications.
 
 ##### toolips extensions
 
@@ -150,6 +150,72 @@ The *parametric ecosystem* offers a number of packages and system tools for mana
 
 
 </td>
+</tr>
+</table>
+
+## gattino
+
+<div align = "center">
+<th><a href = "https://github.com/ChifiSource/Gattino.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino.png"></a></th>
+    
+**unreleased**
+    
+</div>
+
+###### elegant visualizations for julia
+Gattino is Toolips-based, extensible plotting for Julia. This project's base package is still in early development, but gattino plans to feature
+- an extension **ecosystem**
+- **modular** plot components
+- introspectable plots
+- **animated** visualizations.
+- toolips **components**
+- powerful **layout** syntax
+
+###### gattino extensions
+
+<table>
+<tr>  
+     <th><a href = "https://github.com/ChifiSource/GattinoInteractive.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinointeractive.png"></a></th>
+ <th><a href = "https://github.com/ChifiSource/Gattino3D.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino3D.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/GattinoPleths.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinopleths.png"></a></th>
+    <th><a href = "https://github.com/ChifiSource/GattinoPleths.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinostats.png"></a></th>
+</tr>
+    <tr>
+                <td align="center">
+
+**unreleased**
+
+
+</td>   
+        <td align="center">
+
+**unreleased**
+
+
+</td>   
+        <td align="center">
+
+**unreleased**
+
+
+</td>   
+        <td align="center">
+
+**unreleased**
+
+
+</td>   
+    </tr>
+    <tr>  
+     <th><a href = "https://github.com/ChifiSource/GattinoSpace.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinospace.png"></a></th>
+</tr>
+<tr>
+            <td align="center">
+
+**unreleased**
+
+
+</td>   
 </tr>
 </table>
 
@@ -392,73 +458,6 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
       
       
  </td>
-</tr>
-</table>
-      
-
-## gattino
-
-<div align = "center">
-<th><a href = "https://github.com/ChifiSource/Gattino.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino.png"></a></th>
-    
-**unreleased**
-    
-</div>
-
-###### elegant visualizations for julia
-Gattino is Toolips-based, extensible plotting for Julia. This project's base package is still in early development, but gattino plans to feature
-- an extension **ecosystem**
-- **modular** plot components
-- introspectable plots
-- **animated** visualizations.
-- toolips **components**
-- powerful **layout** syntax
-
-###### gattino extensions
-
-<table>
-<tr>  
-     <th><a href = "https://github.com/ChifiSource/GattinoInteractive.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinointeractive.png"></a></th>
- <th><a href = "https://github.com/ChifiSource/Gattino3D.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino3D.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/GattinoPleths.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinopleths.png"></a></th>
-    <th><a href = "https://github.com/ChifiSource/GattinoPleths.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinostats.png"></a></th>
-</tr>
-    <tr>
-                <td align="center">
-
-**unreleased**
-
-
-</td>   
-        <td align="center">
-
-**unreleased**
-
-
-</td>   
-        <td align="center">
-
-**unreleased**
-
-
-</td>   
-        <td align="center">
-
-**unreleased**
-
-
-</td>   
-    </tr>
-    <tr>  
-     <th><a href = "https://github.com/ChifiSource/GattinoSpace.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattinospace.png"></a></th>
-</tr>
-<tr>
-            <td align="center">
-
-**unreleased**
-
-
-</td>   
 </tr>
 </table>
 
