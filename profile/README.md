@@ -163,13 +163,14 @@ The *parametric ecosystem* offers a number of packages and system tools for mana
 </div>
 
 ###### elegant visualizations for julia
-Gattino is Toolips-based, extensible plotting for Julia. This project's base package is still in early development, but gattino plans to feature
+Gattino is Toolips-based, extensible plotting for Julia. Featuring ...
 - an extension **ecosystem**
 - **modular** plot components
-- introspectable plots
-- **animated** visualizations.
+- **hyper-composability**
 - toolips **components**
-- powerful **layout** syntax
+- and powerful **layout** syntax.
+
+`Gattino` provides these capabilities by wrapping an `svg` window, a `Component{:svg}` from [ToolipsServables](https://github.com/ChifiSource/ToolipsServables.jl), into a proprietary type to be used with an API that scales to the dimensions of that type -- the `Context`.
 
 ###### gattino extensions
 
