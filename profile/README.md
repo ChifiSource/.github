@@ -158,7 +158,7 @@ The *parametric ecosystem* offers a number of packages and system tools for mana
 <div align = "center">
 <th><a href = "https://github.com/ChifiSource/Gattino.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino.png"></a></th>
     
-**unreleased**
+[![version](https://juliahub.com/docs/General/Gattino/stable/version.svg)](https://juliahub.com/ui/Packages/General/Gattino)
     
 </div>
 
