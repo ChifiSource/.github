@@ -17,7 +17,6 @@
     - [info](#parametric)
   - [**toolips**](#toolips) - web and server-development framework.
     - [info](https://github.com/ChifiSource#a-manic-web-development-framework)
-    - [toolips 0.3](https://github.com/ChifiSource#toolips-0.3)
     - [extensions](#toolips-extensions)
   - [**gattino**](#gattino) - Composable data visualizations for Julia.
     - [info](https://github.com/ChifiSource#elegant-visualizations-for-julia)
