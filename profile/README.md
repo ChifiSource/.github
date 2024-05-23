@@ -249,22 +249,13 @@ Gattino is Toolips-based, extensible plotting for Julia. Featuring ...
 ###### pure julia notebooks!
 Welcome to olive! Olive is a **pure julia** notebook editor built on the back of multiple dispatch. Through multiple dispatch, olive is able to change functionality entirely by simply having new methods. Using extensions, olive can edit **any** file. Among other things, olive features ...
 - regular **julia modules**
-- unparalleled **extensibility**
-- **modular** design
+- *parametric* **extension** loading
 - **tabbing** notebooks
-- its own **julia** ecosystem
-- **customizable** settings
+- **customizable** *everything*
 - reading of pluto, julia, olive, **and** ipython notebooks
-- exporting to **multiple** formats
 - a full **file-browser**
-- julia **repl cells**
-- module and include cells for **software development**
 - **deployability**
-- **shared variables** between multiple cell-types
-- a **two-pane** design
-- **loadable** directories as **profiles**
-- **flexible** and modern design
-- the ability to edit **any** file
+- and a **two-pane** design.
 ##### olive extensions
 
 <table>
