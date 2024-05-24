@@ -35,9 +35,11 @@
 #### websites
 *nothing here **yet*** ... Things are coming soon!
 ###### chifi docs
-<img src="https://github.com/ChifiSource/image_dump/blob/main/chifi/chifidocs.png"></img>
-
+<div align="center">
+<img src="https://github.com/ChifiSource/image_dump/blob/main/chifi/chifidocs.png" width=250></img>
+</div>
 `ChifiDocs` is a work-in-progress documentation website, this overview will be updated shortly.
+
 #### servers
 
 <div align="center">
@@ -56,18 +58,23 @@ Over the years, we have been working to build a *pretty radical* Julia package e
 <table>
  <tr>
    <th><a href = "https://github.com/ChifiSource/ParametricProcesses.jl" width = 50><img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parproc.png"></a></th>
+   <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
  </tr>
   <tr>
     <td align="center">
       
   [![version](https://juliahub.com/docs/General/ParametricProcesses/stable/version.svg)](https://juliahub.com/ui/Packages/General/ParametricProcesses)
+    <td align="center">
+    
+  [![version](https://juliahub.com/docs/General/IPyCells/stable/version.svg)](https://juliahub.com/ui/Packages/General/IPyCells)
   
+  </td>
   </td>
   </tr>
 </table>
 </div>
 
-The *parametric ecosystem* offers a number of packages and system tools for managing routines, tasks, and data -- with each module built with extensibility in mind.
+The *parametric ecosystem* offers a number of packages and tools for varying tasks which feature parametric data-structures for use with multiple dispatch.
 
 ## toolips
 
@@ -233,20 +240,6 @@ Gattino is Toolips-based, extensible plotting for Julia. Featuring ...
 
 **(pre-release II)**
 
-<table>
-  <tr>
-  <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
-  </tr>
-  <tr>
-
-  <td align="center">
-    
-  [![version](https://juliahub.com/docs/General/IPyCells/stable/version.svg)](https://juliahub.com/ui/Packages/General/IPyCells)
-  
-  </td>
-    
-  </tr>
-</table>
 </div>
 
 ###### pure julia notebooks!
