@@ -1,7 +1,5 @@
 <div align = "center">
-<a href="https://github.com/ChifiSource/ChifiSource.jl"><img src = "https://github.com/ChifiSource/image_dump/blob/main/chifi2024.png" width="250"></a>
-
-**unreleased**
+<a href="https://github.com/ChifiSource/ChifiSource.jl"><img src = "https://github.com/ChifiSource/image_dump/blob/main/chifi/olivesquarepurp.png" width="150"></a>
 
 <h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source software dynasty. | <a href="https://chifi.dev">blog</a> </h5>
 </div>
@@ -11,6 +9,7 @@
 ## map
 - [**web**](#web)
   - [**websites**](#websites)
+    - [ChifiDocs](#chifi-docs)
   - [**servers**](#servers)
 - [**julia packages**](#julia-packages)
   - [**parametric**](#parametric) - Extensible base ecosystem tools.
@@ -34,7 +33,11 @@
 #### web
 
 #### websites
-*nothing here **yet*** ... Things are coming soon!  
+*nothing here **yet*** ... Things are coming soon!
+###### chifi docs
+<img src="https://github.com/ChifiSource/image_dump/blob/main/chifi/chifidocs.png"></img>
+
+`ChifiDocs` is a work-in-progress documentation website, this overview will be updated shortly.
 #### servers
 
 <div align="center">
