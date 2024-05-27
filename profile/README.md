@@ -31,12 +31,13 @@
   - [**tumble**](#tumble) - `AlgebraFrames`-based machine-learning.
   - [**other stuff**](#stuff) - Random packages.
 #### web
-
+`Chifi` hosts several `Toolips`-based [websites](#websites), and for this we have also created and [servers](#servers) to deploy these projects.
 #### websites
-*nothing here **yet*** ... Things are coming soon!
 ###### chifi docs
 <div align="center">
-<img src="https://github.com/ChifiSource/image_dump/blob/main/chifi/chifidocs.png" width=250></img>
+  <a href="https://github.com/ChifiSource/ChifiDocs.jl">
+<img src="https://github.com/ChifiSource/image_dump/blob/main/chifi/chifidocs.png" width=160></img>
+  </a>
 </div>
 `ChifiDocs` is a work-in-progress documentation website, this overview will be updated shortly.
 
@@ -46,9 +47,15 @@
   </br>
    </a>
      </br>
+  <a href="https://github.com/ChifiSource/ChiNS.jl">
   <img width = 100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
+  </a>
+  <a href="https://github.com/ChifiSoure/ChiProxy.jl">
     <img width=150 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiProxy.png">
+  </a>
+  <a href="https://github.com/ChifiSource/ChiDB.jl">
     <img width=100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiDB.png">
+  </a>
 </div>
 
 # julia packages
