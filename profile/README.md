@@ -56,6 +56,9 @@
   <a href="https://github.com/ChifiSource/ChiDB.jl">
     <img width=100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiDB.png">
   </a>
+    <a href="https://github.com/ChifiSource/ChiNAS.jl">
+    <img width=100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/chinas/chifiNAS.png">
+  </a>
 </div>
 
 # julia packages
