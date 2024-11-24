@@ -215,7 +215,7 @@ Gattino is Toolips-based, extensible plotting for Julia. Featuring ...
 </td>   
         <td align="center">
 
-**unreleased**
+[![version](https://juliahub.com/docs/General/GattinoPleths/stable/version.svg)](https://juliahub.com/ui/Packages/General/GattinoPleths)
 
 
 </td>   
