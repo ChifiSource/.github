@@ -50,7 +50,7 @@
   <a href="https://github.com/ChifiSource/ChiNS.jl">
   <img width = 100 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/chins/chifiNS.png">
   </a>
-  <a href="https://github.com/ChifiSoure/ChiProxy.jl">
+  <a href="https://github.com/ChifiSource/ChiProxy.jl">
     <img width=150 height=45 src="https://github.com/ChifiSource/image_dump/blob/main/laboratory/tools/chifiProxy.png">
   </a>
   <a href="https://github.com/ChifiSource/ChiDB.jl">
