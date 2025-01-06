@@ -477,6 +477,7 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
     <th><a href = "https://github.com/ChifiSource/ParseNotEval.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parsenoteval/logo.png" ></a></th>
 <th><a href = "https://github.com/ChifiSource/CarouselArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/odddata/carousel.png" ></a></th>
       <th><a href = "https://github.com/ChifiSource/RollingArrays.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/rollingarrays/rollingarrays.png" ></a></th>
+      <th><a href = "https://github.com/ChifiSource/Documator.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/documentor/logo.png" ></a></th>
     </tr>
     <tr>
         <td align = "center">
@@ -497,10 +498,13 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 [![version](https://juliahub.com/docs/IPyCells/version.svg)](https://juliahub.com/ui/Packages/IPyCells/RqXbK)
       
  </td>
+         <td align = "center">
+      
+**unreleased**
+      
+ </td>
  </tr>
 </table>
-
-
 
 
     
