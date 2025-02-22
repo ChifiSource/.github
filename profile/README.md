@@ -245,7 +245,7 @@ Gattino is Toolips-based, extensible plotting for Julia. Featuring ...
 <div align="center" style = "box-pack: start;">
   </br>
   <a href = https://github.com/ChifiSource/Olive.jl>
-  <img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/olive/olivemain.png">
+  <img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/olivesave.png">
   <br>
   
 [![version](https://juliahub.com/docs/General/Olive/stable/version.svg)](https://juliahub.com/ui/Packages/General/Olive)
