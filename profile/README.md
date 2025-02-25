@@ -244,14 +244,26 @@ Gattino is Toolips-based, extensible plotting for Julia. Featuring ...
 ## olive
 <div align="center" style = "box-pack: start;">
   </br>
-  <a href = https://github.com/ChifiSource/Olive.jl>
-  <img width = 250 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/olivesave.png">
-  <br>
-  
+  <table>
+<tr>  
+         <th><a href = "https://github.com/ChifiSource/OliveHighlighters.jl"><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/olivehighlighters.png"></a></th>
+     <th><a href = "https://github.com/ChifiSource/Olive.jl"><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/olivesave.png"></a></th>
+
+</tr>
+    <tr>
+                  <td align="center">
+
+**unreleased**
+
+
+</td>   
+            <td align="center">
+
 [![version](https://juliahub.com/docs/General/Olive/stable/version.svg)](https://juliahub.com/ui/Packages/General/Olive)
 
-**(pre-release II)**
-
+</td>
+</tr>
+</table>
 </div>
 
 ###### pure julia notebooks!
