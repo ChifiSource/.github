@@ -38,8 +38,10 @@
   <a href="https://github.com/ChifiSource/ChifiDocs.jl">
 <img src="https://github.com/ChifiSource/image_dump/blob/main/chifi/chifidocs.png" width=160></img>
   </a>
+
+<a href="https://chifidocs.com">visit website</a></br><a href="https://github.com/ChifiSource/ChifiDocs.jl">source</a>
 </div>
-`ChifiDocs` is a work-in-progress documentation website, this overview will be updated shortly.
+
 
 #### servers
 
