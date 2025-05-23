@@ -67,6 +67,9 @@
 Over the years, we have been working to build a *pretty radical* Julia package ecosystem. This ecosystem is meant to facilitate data-driven fullstack web-development and Data Science (*combined into one*) with julia.
 ## parametric
 <div align="center">
+  
+[documentation](https://chifidocs.com/parametric)
+
 <table>
  <tr>
    <th><a href = "https://github.com/ChifiSource/ParametricProcesses.jl" width = 50><img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parproc.png"></a></th>
@@ -91,7 +94,11 @@ The *parametric ecosystem* offers a number of packages and tools for varying tas
 ## toolips
 
 <table align="center">
-        <tr>
+  
+  [documentation](https://chifidocs.com/toolips)
+
+  
+<tr>
     <th><a href = "https://github.com/ChifiSource/ToolipsServables.jl" width = 100><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolipsservables.png"></a></th>
           <th><a href = "https://github.com/ChifiSource/Toolips.jl" width = 100><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/toolips/toolips03.png"></a></th>
         </tr>
@@ -179,6 +186,9 @@ The *parametric ecosystem* offers a number of packages and tools for varying tas
 ## gattino
 
 <div align = "center">
+
+[documentation](https://chifidocs.com/gattino)
+  
 <th><a href = "https://github.com/ChifiSource/Gattino.jl" width = 50><img width = 125 src="https://github.com/ChifiSource/image_dump/blob/main/gattino/gattino.png"></a></th>
     
 [![version](https://juliahub.com/docs/General/Gattino/stable/version.svg)](https://juliahub.com/ui/Packages/General/Gattino)
@@ -269,6 +279,8 @@ Gattino is Toolips-based, extensible plotting for Julia. Featuring ...
 </div>
 
 ###### pure julia notebooks!
+- [documentation](https://chifidocs.com/olive)
+
 Welcome to olive! Olive is a **pure julia** notebook editor built on the back of multiple dispatch. Through multiple dispatch, olive is able to change functionality entirely by simply having new methods. Using extensions, olive can edit **any** file. Among other things, olive features ...
 - regular **julia modules**
 - *parametric* **extension** loading
@@ -300,6 +312,8 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
  </tr></table>
  
 ## algebra frames
+- [documentation](https://chifidocs.com/algebraframes)
+
 <div align="center">
  <a href = "https://github.com/ChifiSource/AlgebraFrames.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/algebraframes/alframe.png" ></a></th>
  </div>
