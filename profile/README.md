@@ -73,7 +73,7 @@ Over the years, we have been working to build a *pretty radical* Julia package e
 <table>
  <tr>
    <th><a href = "https://github.com/ChifiSource/ParametricProcesses.jl" width = 50><img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parproc.png"></a></th>
-   <th><a href = "https://github.com/ChifiSource/ParametricProcesses.jl" width = 50><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parscheduler.png"></a></th>
+   <th><a href = "https://github.com/ChifiSource/ParametricScheduler.jl" width = 50><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parscheduler.png"></a></th>
    <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
  </tr>
   <tr>
