@@ -357,6 +357,23 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 - and an implicit ORM system.
 
 The beginning of this project represents something for *both* `AlgebraFrames` and `Tumble`; though progress on `Olive`, `Gattino`, and `Toolips` is ever-lasting some focus is finally being shifted forward and towards the development of new packages. `AlgebraFrames` is a simple, yet platform-setting, beginning to yet another stent of intercompatible packages; these ones primarily focused on data (specifically through the algebraic data concept) and machine-learning. These will carry many of the `Toolips` conveniences that are typically associated with `Chifi` packages, such as the extensible software platform and an extension ecosystem.
+
+<table>
+<tr>
+  <th><a href = "https://github.com/ChifiSource/AlgebraStreams.jl"><img height = 120 src="https://github.com/ChifiSource/image_dump/blob/main/algebraframes/alstream.png" ></a></th>
+</tr>
+  <tr>
+            <td align = "center">
+
+        
+    
+      
+not released
+      
+ </td>
+  </tr>
+  </table>
+  
 ## tumble
 <div align="center">
  <a href = "https://github.com/ChifiSource/Tumble.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/tumble/tumblemain.png" ></a></th>
