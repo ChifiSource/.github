@@ -1,7 +1,7 @@
 <div align = "center">
 <a href="https://github.com/ChifiSource/ChifiSource.jl"><img src = "https://github.com/ChifiSource/image_dump/blob/main/chifi/olivesquarepurp.png" width="110"></a>
 
-<h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source julia software dynasty. | <a href="https://chifi.dev">blog</a> </h5>
+<h5><a href="https://github.com/ChifiSource/">chifi</a> | an open-source julia software dynasty. | <a href="https://medium.com/chifi-media">blog</a> </h5>
 </div>
 
 
