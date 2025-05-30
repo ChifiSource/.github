@@ -84,7 +84,7 @@ Over the years, we have been working to build a *pretty radical* Julia package e
   </td>
     <td align="center">
     
-  *coming soon*
+[![version](https://juliahub.com/docs/General/ParametricScheduler/stable/version.svg)](https://juliahub.com/ui/Packages/General/ParametricScheduler)
   
   </td>
     <td align="center">
