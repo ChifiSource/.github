@@ -348,6 +348,10 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 
 <div align="center">
  <a href = "https://github.com/ChifiSource/AlgebraFrames.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/algebraframes/alframe.png" ></a></th>
+
+  [![version](https://juliahub.com/docs/General/AlgebraFrames/stable/version.svg)](https://juliahub.com/ui/Packages/General/AlgebraFrames)
+
+  
  </div>
 
 - High-level, out-of-memory data processing.
