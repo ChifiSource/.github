@@ -74,7 +74,7 @@ Over the years, we have been working to build a *pretty radical* Julia package e
  <tr>
    <th><a href = "https://github.com/ChifiSource/ParametricProcesses.jl" width = 50><img width = 200 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parproc.png"></a></th>
    <th><a href = "https://github.com/ChifiSource/ParametricScheduler.jl" width = 50><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/parametricprocesses/parscheduler.png"></a></th>
-   <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
+   
  </tr>
   <tr>
     <td align="center">
@@ -85,11 +85,6 @@ Over the years, we have been working to build a *pretty radical* Julia package e
     <td align="center">
     
 [![version](https://juliahub.com/docs/General/ParametricScheduler/stable/version.svg)](https://juliahub.com/ui/Packages/General/ParametricScheduler)
-  
-  </td>
-    <td align="center">
-    
-  [![version](https://juliahub.com/docs/General/IPyCells/stable/version.svg)](https://juliahub.com/ui/Packages/General/IPyCells)
   
   </td>
   </tr>
@@ -265,11 +260,17 @@ Gattino is Toolips-based, extensible plotting for Julia. Featuring ...
   </br>
   <table>
 <tr>  
+  <th><a href = "https://github.com/ChifiSource/IPy.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/ipyjl/logo.png" ></a></th>
          <th><a href = "https://github.com/ChifiSource/OliveHighlighters.jl"><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/olivehighlighters.png"></a></th>
      <th><a href = "https://github.com/ChifiSource/Olive.jl"><img width = 150 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/olivesave.png"></a></th>
 
 </tr>
     <tr>
+          <td align="center">
+    
+  [![version](https://juliahub.com/docs/General/IPyCells/stable/version.svg)](https://juliahub.com/ui/Packages/General/IPyCells)
+  
+  </td>
                   <td align="center">
 
 [![version](https://juliahub.com/docs/General/OliveHighlighters/stable/version.svg)](https://juliahub.com/ui/Packages/General/OliveHighlighters)
