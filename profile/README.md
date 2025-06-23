@@ -159,7 +159,9 @@ The *parametric ecosystem* offers a number of packages and tools for varying tas
   <td>
     
   </td>
-  <td>
+  <td align="center">
+    
+  [![version](https://juliahub.com/docs/General/ToolipsCrawl/stable/version.svg)](https://juliahub.com/ui/Packages/General/ToolipsCrawl)
     
   </td>
   <td align="center">
