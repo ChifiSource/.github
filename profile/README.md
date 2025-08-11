@@ -343,8 +343,23 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
       
       
  </td>
+
+ </tr>
+
+ <tr>  
+ <th><a href = "https://github.com/ChifiSource/OliveMarkdown.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivemarkdown.png"></a></th>
+  </tr>
+  <tr>
+      <td align = "center">
+      
+      
+  **unreleased**
+      
+      
  </td>
- </tr></table>
+  </tr>
+  
+ </table>
  
 ## algebra frames
 - [documentation](https://chifidocs.com/algebraframes)
