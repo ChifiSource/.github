@@ -301,7 +301,7 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
 - **deployability**
 - and a **two-pane** design.
 ##### olive extensions
-<table>
+<table align="center">
 <tr>  
  <th><a href = "https://github.com/ChifiSource/OlivePython.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivepython.png"></a></th>
    <th><a href = "https://github.com/ChifiSource/OliveCollaborate.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivecollaborate.png"></a></th>
@@ -350,6 +350,8 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
  <th><a href = "https://github.com/ChifiSource/OliveMarkdown.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivemarkdown.png"></a></th>
    <th><a href = "https://github.com/ChifiSource/OliveImages.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/oliveimages.png"></a></th>
    <th><a href = "https://github.com/ChifiSource/OliveReadOnly.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivero.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/OliveMemoryProgress.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivememoryprogress.png"></a></th>
+   
   </tr>
   <tr>
       <td align = "center">
@@ -367,6 +369,13 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
       
  </td>
        <td align = "center">
+      
+      
+  **unreleased**
+      
+      
+ </td>
+        <td align = "center">
       
       
   **unreleased**
