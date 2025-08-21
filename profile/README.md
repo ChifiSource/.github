@@ -358,8 +358,7 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
   <tr>
       <td align = "center">
       
-      
-  **unreleased**
+  [![version](https://juliahub.com/docs/General/OliveMarkdown/stable/version.svg)](https://juliahub.com/ui/Packages/General/OliveMarkdown)
       
       
  </td>
