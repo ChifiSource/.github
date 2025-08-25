@@ -372,7 +372,7 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
        <td align = "center">
       
       
-  **unreleased**
+[![version](https://juliahub.com/docs/General/OliveReadOnly/stable/version.svg)](https://juliahub.com/ui/Packages/General/OliveReadOnly)
       
       
  </td>
