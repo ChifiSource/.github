@@ -352,7 +352,7 @@ Welcome to olive! Olive is a **pure julia** notebook editor built on the back of
  <th><a href = "https://github.com/ChifiSource/OliveMarkdown.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivemarkdown.png"></a></th>
    <th><a href = "https://github.com/ChifiSource/OliveImages.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/oliveimages.png"></a></th>
    <th><a href = "https://github.com/ChifiSource/OliveReadOnly.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivero.png"></a></th>
-<th><a href = "https://github.com/ChifiSource/OliveMemoryProgress.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivememoryprogress.png"></a></th>
+<th><a href = "https://github.com/ChifiSource/OliveProfiler.jl"><img width = 120 src="https://github.com/ChifiSource/image_dump/blob/main/olive/0.1/extensions/olivememoryprogress.png"></a></th>
    
   </tr>
   <tr>
